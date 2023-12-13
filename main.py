@@ -6,8 +6,9 @@ with open('dal_ug_full_academic_calendar.pdf', "wb") as f:
     f.write(response.content)
 
 reader = PdfReader('dal_ug_full_academic_calendar.pdf')
-print('PDF length (number of pages): ',len(reader.pages))
-print('Test: Print text on page 0')
-page = reader.pages[0]
-text = page.extract_text()
-print(text)
+
+calendar_file = open('dal_ug_calendar.txt', 'w')
+
+for page in reader.pages:
+    text = page.extract_text()
+    calendar_file.write(text)
