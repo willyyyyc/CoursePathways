@@ -17,4 +17,8 @@ class FileGenerator:
             text = page.extract_text()
             calendar_file.write(text)
 
-        print('successfully generated pdf file and txt file')
+        print('Successfully generated pdf file and txt file.')
+
+    def print_page(self, page_num):
+        reader = PdfReader('files/dal_ug_full_academic_calendar.pdf')
+        print(reader.pages[page_num].extract_text())
