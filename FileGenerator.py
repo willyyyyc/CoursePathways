@@ -8,11 +8,14 @@ class FileGenerator:
     def generate_pdf(self):
         with open('files/dal_ug_full_academic_calendar.pdf', "wb") as f:
             f.write(self.response.content)
+        print('pdf file created...')
 
         reader = PdfReader('files/dal_ug_full_academic_calendar.pdf')
+        print('pdf reader created...')
 
         calendar_file = open('files/dal_ug_calendar.txt', 'w')
 
+        print('Writing to txt file...')
         for page in reader.pages:
             text = page.extract_text()
             calendar_file.write(text)

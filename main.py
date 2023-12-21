@@ -5,7 +5,7 @@ file_generator = FileGenerator()
 file_checker = CheckFile()
 check = file_checker.check_files()
 if not check[0]:
-    print('Required file did not exist so it was generated.')
+    print('Required file did not exist so it will be generated:')
     file_generator.generate_pdf()
 
 

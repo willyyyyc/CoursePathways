@@ -1,3 +1,4 @@
+import os
 class CheckFile:
     def __init__(self):
         self.pdf_present = True
@@ -13,3 +14,10 @@ class CheckFile:
 
     def check_files(self):
         return (self.pdf_present, self.txt_present)
+
+    def remove_files(self):
+        try:
+            os.remove('files/dal_ug_full_academic_calendar.pdf')
+            os.remove('files/dal_ug_calendar.txt')
+        except OSError as e:
+            print(f'Error while removing {e.filename}')
