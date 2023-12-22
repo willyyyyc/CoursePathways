@@ -1,0 +1,1568 @@
+ 
+900 Mining, Health Informa tics, Human Computer Interaction, Information Retrieval, Network Centered Computing, Privacy and Security 
+and Visualization.  
+The Faculty of Computer Science was formed on April 1, 1997, following the amalgamation of the Technical University of Nova 
+Scotia (TUNS) and Dalhousie University. Its members came from the School of Computer Science at TUNS and the Computing 
+Science Division of the Department of Mathematics, Statistics, and Computing Science at Dalhousie.  
+Significant growth has occurred in our format ive early years. Our graduate and undergraduate programs include imaginative multi -
+disciplinary programs such as Electronic Commerce, Health Informatics, and Bioinformatics. The most up -to-date information on 
+ongoing programs, ongoing curriculum revision, and general information about the Faculty can be found on our website: 
+http://www.cs.dal.ca . 
+Staff  
+Dean  
+Rau-Chaplin, A.,  BCompSc (York), MCompSc, PhD (Carleton)  
+Associate Deans  
+Blouin, C.,  BSc (Laval), PhD (Dalhousie)  
+Faculty Administrator  
+Publicover, A.,  BSc, BA (Dalhousie)  
+Telephone: (902) 494 -1199  
+Undergraduate Administrator  
+Bolivar, A.  
+Telephone: (902) 494 -2740  
+Computer Science  
+Degree Programs  
+Academic Regulations  
+For all variations of undergraduate degrees offered by the Faculty of Computer Science:  
+• of the minimum 57 to maximum 60 credit hours required for all CSCI credit hours required at all levels, at least half must 
+be chosen from Dalhousie CSCI course offerings, and  
+• of all CSCI credit hours required at the 3000 and 4000 level, at least half must be chosen from Dalhousie CSCI course 
+offerings.  
+In addition to the regulations below, please see the University's Academic Regulations  section.  
+Workload  
+A normal course load is five courses during each study term.  
+Course Selection  
+The content of every course that students take to meet degree requirements must represent new material: students may not take  courses 
+whose content is largely repetitive of, or more elementary t han, a course taken earlier on the same topic, without permission of the 
+Faculty.  
+Of the 120 credit hours required to complete any CS undergraduate degree, at least 60 must be taken from Dalhousie University . 
+Courses offered by the Faculty of Computer Scie nce may be cancelled due to low registration in accordance with the FCS Procedures 
+on Course Cancellation.  
+Computer courses in other departments  
+Computer courses offered by other departments (e.g., COMM 1502.03, MGMT 1601.03) cannot be taken for credit in the Faculty's 
+degree programs without explicit permission of the Faculty of Computer Science.  
+Grades   
+901 1. Course instructors will describe methods of student evaluation during the first week of each course.  
+2. Supplementary examinations are not given in Computer S cience courses.  
+3. A grade of at least C is required for a course to satisfy a prerequisite condition for a CSCI/INFX course.  
+4. A grade of at least C is required in all Computer Science CSCI/INFX core courses to graduate with any Computer Science 
+degree.  
+  
+Dismissal  
+A student who meets the conditions for dismissal as outlined in Section 20, Academic Dismissal , of the Academic Regulations will be 
+dismissed from the program. A student who fails more than one co -op work term will be dismissed from the co -op pro gram.  
+A student in any undergradute degree program offered by the Faculty of Computer Science, where the first major is Computer Sc ience 
+or Applied Computer Science, who receives a grade lower than C in the same required CSCI course twice, will be dismisse d. The 
+required CSCI courses are:  
+Bachelor of Applied Computer Science:   CSCI 1110, CSCI 1120, CSCI 1170, CSCI 1800, CSCI 1801, CSCI 2100, CSCI 2110, CSCI 
+2134, CSCI 2141, CSCI 2170, CSCI 2201, CSCI 2690, CSCI 2691, CSCI 3101, CSCI 3130, CSCI 3160, CSCI 31 71, CSCI 3172, 
+CSCI 3691, CSCI 4163, CSCI 4691  
+Bachelor of Computer Science:   CSCI 1110, CSCI 1120, CSCI 1170, CSCI 1315, CSCI 1800, CSCI 1801, CSCI 2100, CSCI 2110, 
+CSCI 2115, CSCI 2122, CSCI 2134, CSCI 2141, CSCI 3101, CSCI 3110, CSCI 3120, CSCI 3130, CS CI 3137, CSCI 3171  
+Bachelor of Arts in Computer Science/Bachelor of Science in Computer Science:   CSCI 1110, CSCI 1120, CSCI 1170, CSCI 1315, 
+CSCI 1800, CSCI 1801, CSCI 2110, CSCI 2122, CSCI 2134, CSCI 2141, CSCI 3110, CSCI 3120, CSCI 3130, CSCI 3171  
+An ap plication for readmission to the program may be considered two terms after dismissal. A student who has been dismissed and 
+who has been required to withdraw from the university for one term or more may be readmitted to a program in the Faculty of 
+Computer Science only once. A readmitted student is considered to be on probation.  
+Minors  
+Computer Science students doing a minor may not use a 2000+ level course to satisfy both a major requirement and a minor 
+requirement.   For each course that is explicitly requi red by both the major and the minor, the choice of an additional course in the 
+minor subject and at the same level or higher must be used to fulfill the duplicate requirement.  
+Staff  
+Professor Emeritus  
+Shepherd, M., MSc, PhD (Western)  
+Slonim, J.,  BSc, MSc (Western), PhD (Kansas)  
+Watters, C. R.,  BSc, MSc, MLS (Western Ontario), PhD (TUNS)  
+Professors  
+Abidi, S.,  BEng (N.E.D. Univ of Eng & Technology), MS (Miami), PhD (Surrey)  
+Arnold, D.,  Diplom Computer Science (Dortmund), MSc (SFU), Dr. rer. nat. (D ortmund)  
+Beiko, R., BSc (Dalhousie), PhD (Ottawa)  
+Blouin, C. , BSc (Laval), PhD (Dalhousie)  
+Bodorik, P.,  BSc (Calgary), MEng, PhD (Carleton)  
+Brooks, S., BSc (Brock), MSc (UBC), PhD (Cambridge)  
+Heywood, M.,  PhD (Essex)  
+Janssen, J.,  MSc (Eindhoven), PhD (Lehi gh), cross appointment with Department of Mathematics and Statistics  
+Keselj, V.,  BSc (Belgrade), MMath, PhD (Waterloo)  
+Klein, R., BA (SUNY at Stony Brook, MA, PhD (Oregon), cross appointment with Department of Psychology and Neuroscience  
+Matwin, S.,  MSc, P hD (Warsaw), DSc (Pol. Acad of Sci)  
+Milios, E.,  Dipl.Eng. (National Tech. Univ.), SM&EE, PhD (MIT)  
+Ralph, P., BComm, BSc (Memorial), PhD (UBC)  
+Rau-Chaplin, A.,  BCompSc (York), MCompSc, PhD (Carleton)  
+Sampalli, S.,  BEng (Bangalore), PhD (Ind. Inst. of Sc.)  
+Selinger, P.,  PhD (Pennsylvania), cross appointment with Department of Mathematics and Statistics  
+Torgo, L., PhD (Porto)  
+Trappenberg, T.,  MSc, PhD (Aachen)   
+902 Ye, Q. , BEng, MEng (Harbin), PhD (Alberta)  
+Zeh, N.,  Diplom -Informatiker (Friedrich -Scholler), PhD (Carleton)  
+Zincir -Heywood, A. N.,  BSc, MSc, PhD (Ege Univ)  
+Associate Professors  
+Abidi, S., MBBS (Karachi), MSc (Sains Malaysia), PhD (Dalhousie), cross appointment with Facutly of Medicine  
+Blustein, W. J.,  BSc, MSc, PhD (Western)  
+Evans, R., BA (Exeter), MSc (Wales), PhD (Greenwich)  
+Gagie, T., BSc (Queen's), MSc (Toronto), Dr rer nat (Bielefeld)  
+He, M., BEng (Nanjing P & T), MMath, PhD (Waterloo)  
+McAllister, M. , BMath (Waterloo), MS, PhD (UBC)  
+Oore, S.,  BSc (Dal housie), MSc, PhD (Toronto)  
+Orji, R., BSc (UNIZIK), MSc (METU), PhD (Saskatchewan)  
+Paulovich, F., BSc, MSc (Sao Carlos) PhD (Sao Paulo)  
+Sajjad, H. , BCS, MCS (Ntl.Univ.), PhD (Stuttgart)  
+Seto, M.,  BASc, MASc, PhD (UBC), PEng, cross appointment with Departme nt of Electrical & Computer Engineering  
+Smit, M., BCS, MCS (Dalhousie), PhD (Alberta), cross appointment with School of Information Management  
+Reilly, D.,  BA (Waterloo), BA (McGill), BEd (Queen ’s), PhD (Dalhousie)  
+ 
+ 
+Assistant Professor  
+Barrera Machuca, M.,  BA (Tecn. de Monterrey), MSc (Sch Technology), PhD (Simon Fraser)  
+Haque, I., BSc (Jahangirnagar), MSc (Concordia), PhD (Alberta)  
+Hernandez -Castillo, C., BSc, MSc, PhD (Veracruzna)  
+Maguire, F., MA (Oxford), PhD (London)  
+Malloch, J.,  BA (Dalhousie), MA, PhD  (McGill)  
+Poitras, E., BA (Moncton), MA, PhD (McGill)  
+Rahman, M. , BSc (Bangladesh), MSc, PhD (Saskatchewan)  
+Sharma, T.,  BE (Rajasthan), MS (Ind. Instit. Tech. -Madras), PhD (Athens)  
+Wehbe, R. , BSc (York), MSc (UOIT), PhD (Waterloo)  
+Whidden, C., BCS, MCS, PhD (Dalhousie)  
+ 
+ 
+University Teaching Fellow  
+Brodsky, A.,  BMath (Waterloo), MSc, PhD (UBC)  
+Kalyaniwalla, N.,  BSc (Bombay), MS, PhD (Rensselaer)  
+Senior Instructor  
+Aziz, K., BSc (Lahore), MSc (Singapore), PhD (Vienna Univ of Tech)  
+Flem ing, J.,  BComm, BA (St. Mary's), MA (Dalhousie)  
+MacKay, B., BA (Mt. A.), PhD (Dalhousie)  
+Sampangi, R. , BE (Visveswaraya Tech), MTech (Mysore), PhD (Dalhousie)  
+Siegel, A. , BSc (Eckerd), MSC, PhD (Dalhousie)  
+Instructor  
+Cochran, A., MEC (Dalhousie)  
+DeGagne, C ., BSc (Brandon), MSc (Bristol), PhD (Dalhousie)  
+Dey, S., BTech (West Bengal), MTech (Mysore), PhD (Dalhousie)  
+Hawkey, R. , BCS (Dalhousie)  
+Marchand, Y. , BCS (Belfort), MCS (Paris VIII, Caen), PhD (Campiegne)  
+Meredith, T. , BTech (Ryerson), MMath, PhD (Water loo) 
+Mosquera, M ., BIT (Clayton), MEC (Dalhousie)  
+Sukhchandan , Dipl.Eng. (Punjab Tech Ed), BTech (Punjab), MEng (Thapar), PhD (Thapar Inst.)  
+ 
+ 
+  
+903 Bachelor of Applied Computer Science  
+Faculty Requirements  
+1000 Level  
+• CSCI 1110: Introduction to Computer Science  
+• CSCI 1120: Introduction to Computer Systems  
+• CSCI 1170: Introduction to Web Design and Development  
+• CSCI 1800: Society and Technology before Automation  
+• CSCI 1801: Society and Technology in the Automation Age  
+2000 Level  
+• CSCI 2100: Communication Skills : Written and Oral  
+• CSCI 2110: Data Structures and Algorithms  
+• CSCI 2134: Software Development  
+• CSCI 2141: Introduction to Database Systems  
+• CSCI 2201: Introduction to Information Security  
+• CSCI 2170: Introduction to Server Side Scripting  
+• CSCI 2690: Introductio n to Software Projects  
+• CSCI 2691: Introductory Project  
+3000 Level  
+• CSCI 3101: Social, Ethical, and Professional Issues in Computer Science  
+• CSCI 3130: Introduction to Software Engineering  
+• CSCI 3160: Designing User Interfaces  
+• CSCI 3171: Network Computing  
+• CSCI 3172: Web -Centric Computing  
+• CSCI 3691: Intermediate Project  
+4000 Level  
+• CSCI 4163: Human Computer Interaction  
+• CSCI 4691: Advanced Project  
+• Three credit hours of an advanced database course at or above the 3000 level, chosen from an approved li st: 
+o CSCI 4140: Advanced Database Systems  
+o CSCI 4141: Information Retrieval  
+o CSCI 4144: Introduction to Data Mining and Data Warehousing  
+o CSCI 4145: Cloud Computing  
+o CSCI 4146: The Process of Data Science  
+o CSCI 4147: The Web of Open Linked Data  
+Other Required Courses:  
+• MGMT 1301: Interdisciplinary Management I  
+• MGMT 1302: Interdisciplinary Management II  
+• MGMT 2303: People, Work, and Organizations: Micro Organizational Behaviour  
+• six credit hours of Management, Commerce, or Computer Science courses at or ab ove the 3000 level, approved by the 
+Faculty of Computer Science  
+• 15 credit hours of electives at or above the 1000 level  
+• 24 credit hours of electives at or above the 2000 level  
+Other Degree Requirements:  
+• A maximum of 90 credit hours of Computer Science cour ses may be taken for the BACS.   
+904 Please consult with an advisor in the Faculty of Computer Science when choosing from approved lists. Additional courses may b e 
+available but not presently listed above.  
+Minors for the Bachelor of Applied Computer Science  
+Students in the Bachelor of Applied Computer Science program may add a Minor in many subjects from the Faculties of Arts and 
+Social Sciences, Management, Science and the College of Sustainability. Available minors are listed here. 
+The minor require ments are in addition to the normal Bachelor of Applied Computer Science requirements. All 2000+ Computer 
+Science and Management courses used to satisfy BACS requirements may not be counted towards a minor.   Students wishing to 
+pursue a minor should consul t the relevant department and a Faculty of Computer Science academic advisor.  
+Co-operative Education Programs  
+All programs in Computer Science have a Co-operative Education option . This  requires the completion of three Co -op work terms.  
+The Co -op office receives requests from employers for Co -op placements and advertises these to qualifying students. Students apply 
+for these positions and are interviewed by the employer.  
+Students interes ted in the Co -op program should apply to register for CSCI 8890.00 at the end of their first year.  
+Faculty Requirements  
+Students must complete the following courses before beginning their first work -term:  
+• CSCI 2100: Communication Skills: Written and Oral  
+• CSCI 2110: Data Structures and Algorithms  
+• CSCI 2134: Software Development  
+• CSCI 2141: Introduction to Databases  
+Students must complete three successful work -terms as part of the Applied Computer Science Co -op program.   Each work term 
+involves two courses, r epresenting the experiential and academic co -op components:  
+ Experiential  Academic  
+Work Term 1          CSCI 8781.00 Co -op Work Term 1            CSCI 8791.01: Co -op 1           
+Work Term 2  CSCI 8782.00 Co -op Work Term 2  CSCI 8792.01: Co -op 2 
+Work Term 3  CSCI 8783.00 Co -op Work Term 3  CSCI 8793.01: Co -op 3 
+Entry Points to Bachelor of Applied Computer Science  
+There are multiple entry points into the Bachelor of Applied Computer Science program.  
+First-Year Entry -Students are advised to apply directly  to the Faculty of Computer Science but may take their courses while residing 
+in other Faculties and transfer to Applied Computer Science prior to graduation.  
+Students in the Bachelor of Computer Science program who transfer to the Applied Computer Science  program within the first two 
+years should be able to complete their requirements without requiring additional time.  
+Students from institutions that have articulation agreements with the University will be granted advanced standing if they me et the 
+require ments set forth in the agreements.  
+Students who wish to transfer to the Bachelor of Applied Computer Science program from other disciplines may be able to do so , but 
+will have to make up any required courses that are missing.  
+See also the Academic Regulations section for the Faculty of Computer Science.  
+Bachelor of Computer Science  
+The following regulations apply to students starting the program in September 2010 or after.  
+Faculty Requirements  
+1000 Level   
+905 • CSCI 1110.03: Introduction to Computer Science  
+• CSCI 1120.03: Introduction to Computer Systems  
+• CSCI 1170.03: Introduction to Web Design and Development  
+• CSCI 1315.03:   Discrete Mathematics for Computer Science  
+• CSCI 1800.03: Society and Technology before Automation  
+• CSCI 1801.03: Society a nd Technology in the Automation Age  
+2000 Level  
+• CSCI 2100.03: Communication Skills: Oral and Written  
+• CSCI 2110.03: Data Structures and Algorithms  
+• CSCI 2115.03: Theory of Computer Science  
+• CSCI 2122.03: Systems Programming  
+• CSCI 2134.03: Software Development  
+• CSCI 2141.03: Introduction to Database Systems  
+3000 Level  
+• CSCI 3101.03: Social, Ethical and Professional Issues in Computer Science  
+• CSCI 3110.03: Design and Analysis of Algorithms I  
+• CSCI 3120.03: Operating Systems  
+• CSCI 3130.03: Introduction to Software Eng ineering  
+• CSCI 3137.03: Principles of Programming Languages  
+• CSCI 3171.03: Network Computing  
+Other Required Courses:  
+• CSCI 1300.03: Calculus in Computer Science or MATH 1000.03: Differential and Integral Calculus I  
+• MATH 1030.03: Matrix Theory and Linear Alge bra I 
+• STAT 2060.03: Introduction to Probability and Statistics I  
+• six credit hours of a science course from the following list  
+o CSCI 1107.03: Social Computing  
+o CSCI 1108.03: Experimental Robotics  
+o CSCI 1109.03: Practical Data Science  
+o BIOL 1010.03: Principles of Biology I  
+o BIOL 1011.03: Principles of Biology II  
+o CHEM 1011.03: Concepts in Chemistry I  
+o CHEM 1012.03: Concepts in Chemistry II  
+o ENGI 1103.03: Engineering Design I  
+o ERTH 1080.03: Geology I  
+o PHYC 1190.03: Introduction to Physics  
+o PHYC 1290.03: Introduction to Physics  
+o PHYC 1310.03: Physics In & Around You I  
+o PHYC 1320.03: Physics In & Around You II  
+o PSYO 1011.03: Introduction to Psychology and Neuroscience I:   From Neuron to Person  
+o PSYO 1012.03: Introduction to Psychology and Neuroscience II:  From Social Interaction to Psychopathology  
+• three credit hours in humanities or social science at or above the 1000 level  
+• six credit hours in business, science, or engineering at or above the 1000 level  
+• three credit hours in business, science or engine ering at or above the 2000 level  
+• six credit hours of electives of computer science at or above the 3000 level  
+• nine credit hours of electives of computer science at or above the 4000 level  
+• six free credit hours of electives at or above the 1000 level  
+• 18 free credit hours of electives at or above the 2000 level  
+Bachelor of Computer Science Honours  
+The purpose of the Honours program is to provide a more challenging degree program that prepares students for graduate school .  
+906 To enter the Honours program a stu dent must consult with the Honours Student Advisor and obtain the approval of the Faculty of 
+Computer Science.  
+Each computer science course at or above the 3000 level must be passed with a grade of at least 2.7 (B -). The cumulative GPA across 
+all courses m ust be at least 3.0 (B).  
+The Honours program may be combined with co -op education.  
+Faculty Requirements  
+In addition to the normal requirements of the Bachelor of Computer Science degree, course selection must include six courses chosen 
+as follows:  
+• 15 credi t hours of computer science at or above the 4000 level chosen in consultation with the thesis supervisor to ensure 
+that the student has the appropriate background  
+• CSCI 8873.03 (e.g. successfully complete and present an Honours Thesis)  
+Students who meet the se requirements and who obtain a GPA of 3.7 (A -) or higher in all computer science courses will receive the 
+degree Bachelor of Computer Science with First Class Honours.  
+Minors for the Bachelor of Computer Science  
+Students in the Bachelor of Computer Scien ce program may add a Minor in many subjects from the Faculties of Arts and Social 
+Sciences, Management, Science and the College of Sustainability. Available minors are listed here. 
+The minor requirements are in addition to the normal Bachelor of Computer S cience requirements. All 2000+ Computer Science and 
+Math courses used to satisfy Bachelor of Computer Science requirements may not be counted towards a minor.   Students wishing to 
+pursue a minor should consult the relevant department and a Faculty of Compu ter Science academic advisor.  
+Co-operative Education Programs  
+All programs in Computer Science have a Co-operative Education option . This requires the completion of three Co -op work terms.  
+The Co -op office receives requests from employers for Co -op placements and advertises these to qualifying students. Students apply 
+for these positions and are interviewed by the employer.  
+Students interested in the Co -op program should apply to regi ster for CSCI 8890.00 at the end of their first year.  
+Faculty Requirements  
+Students must complete the following courses before beginning their first work -term:  
+• CSCI 2100: Communication Skills: Written and Oral  
+• CSCI 2110: Data Structures and Algorithms  
+• CSCI 2134: Software Development  
+• CSCI 2141: Introduction to Databases  
+Students must complete three successful work -terms as part of the Computer Science Co -op program.   Each work term involves two 
+courses, representing the experiential and academ ic co -op components:  
+ Experiential  Academic  
+Work Term 1        CSCI 8781.00 Co -op Work Term 1          CSCI 8791.01: Co -op 1        
+Work Term 2  CSCI 8782.00 Co -op Work Term 2  CSCI 8782.01: Co -op 2 
+Work Term 3  CSCI 8783.00 Co -op Work Term 3  CSCI 8783.01: Co -op 3 
+Entry Points to Bachelor of Computer Science  
+There are multiple entry points into the Bachelor of Computer Science program.  
+First-Year Entry -Students are advised to apply directly to the Faculty of Computer Science but may take their courses within the BSc 
+first year and transfer to Computer Science at the beginning of their second year.  
+Students who wish to transfer to the Bachelor of Computer Science program from other disciplines may be able to do so, but wi ll have 
+to make up any re quired courses that are missing.   
+907 See also the Academic Regulations section for the Faculty of Computer Science . 
+Accreditation and the Profession  
+Of particular importance to the Faculty is the accreditation of the undergraduate program by the Computer Scien ce Accreditation 
+Council (CSAC), which is responsible for accreditation of computer science programs in Canada. Accreditation provides our 
+graduates with an accelerated path towards achieving the professional designation of Information Systems Professional  of Canada 
+(I.S.P.).  
+The Bachelor of Computer Science, Bachelor of Computer Science with Co -op, Bachelor of Computer Science with Honours, and 
+Bachelor of Computer science with Honours and Co -op are accredited by CSAC.  
+The co -operative program offers work terms to our students, thus providing an additional link between the Faculty and the Profession.  
+Bachelor of Science and Bachelor of Arts with Computer 
+Science  
+Bachelor of Science and Bachelor of Arts degrees with a Major in Computer 
+Science  
+The Facul ty of Computer Science offers Bachelor of Science and Bachelor of Arts degrees with a Major in Computer Science. The 
+programs of study are similar to the Bachelor of Computer Science, but with more flexibility in selection of elective courses . These 
+progra ms may be of benefit for students who want to use one of them as a basis to enter other professional programs such as 
+Education, Medicine, or Law. However, unlike the Bachelor of Computer Science degree, it does not meet CSAC accreditation 
+requirements.  
+Faculty Requirements  
+1000 Level  
+• CSCI 1110.03: Introduction to Computer Science  
+• CSCI 1120.03: Introduction to Computer Systems  
+• CSCI 1170.03: Introduction to Web Design and Development  
+• CSCI 1315.03:   Discrete Mathematics for Computer Science  
+• CSCI 1800.03: Society and Technology before Automation  
+• CSCI 1801.03: Society and Technology in the Automation Age  
+2000 Level  
+• CSCI 2100.03: Communication Skills:   Oral and Written  
+• CSCI 2110.03: Data Structures and Algorithms  
+• CSCI 2115.03: Theory of Computer Scie nce 
+• CSCI 2122.03: Systems Programming  
+• CSCI 2134.03: Software Development  
+• CSCI 2141.03: Introduction to Database Systems  
+3000 Level  
+• CSCI 3101.03:   Social, Ethical and Professional Issues in Computer Science  
+• CSCI 3110.03: Design and Analysis of Algorithms I or CSCI 3111.03:   Numerical Linear Algebra  
+• CSCI 3120.03: Operating Systems  
+• CSCI 3130.03: Introduction to Software Engineering  
+• CSCI 3137.03:   Principles of Programming Languages  
+• CSCI 3171.03: Network Computing  
+Other Required Courses:   
+908 • MATH 1000. 03: Differential and Integral Calculus I  
+• MATH 1030.03: Matrix Theory and Linear Algebra I  
+• Remaining requirements for a BA or BSc as set out in the College of Arts and Sciences section  of the Undergraduate 
+Calendar.  
+Double Majors and Combined Honours  
+The following degree programs are available to students interested in interdisciplinary studies where the larger number of majors  
+credits is Computer Science: Bachelor of Science (120 credit hours) with Double Major, Bachelor of Science (120 credit hours)  with 
+Combined Honours, Bachelor of Arts (120 credit hours) Double Major and Bachelor of Arts (120 credit hours) Combined Honours.  
+Combined Honours  
+Students interested in taking honours in Computer Science and another subject as a combined program should consul t the honours 
+advisor through whom a suitable course of study can be arranged.  
+A combined honours program may well be an appropriate choice for many students. If a student is contemplating graduate work, it 
+should be borne in mind that the work in either s ubject of a combined honours program may be insufficient for entry to a regular 
+graduate program, and that a qualifying year may be necessary.  
+Students who wish to arrange interdisciplinary programs (with fields such as Mathematics, Physics, Psychology, an d others) are 
+invited to discuss their interests with the appropriate department and the Undergraduate Chair of the Faculty of Computer Sci ence.  
+Minor in Computer Science for Non -Computer Science Major 
+BSc 
+The Minor in Computer Science is available to non -CS students registered in a  120 credit hour major and honours programs. Please 
+see Minor in Computer Science.  
+  
+Certificates in Computer Science  
+ 
+The following Certificates have been approved for the follow ing Bachelor of Computer Science programs: BCSC, BCSC Co -op, 
+BCSC with Honours, BCSC Honours with Co -op, BCSC Honours Conversion, BCSC Honours Conversion with Co -op: 
+• Certificate in Artificial Intelligence and Intelligent Systems  
+• Certificate in Bioinformati cs (admission under review)  
+• Certificate in Communication Technologies and Cyber Security  
+• Certificate in Data Science  
+• Certificate in Graphics, Gaming, and Media  
+• Certificate in Web and Mobile Development  
+• Certificate in User Experience Design and Evaluation  
+Interested students are advised to enroll early in their programs of study, but enrolment is usually also permitted in the fi nal year of 
+study, provided requirements have been met. To be awarded a Certificate, students must apply to graduate wit h a Certificate at the 
+time they apply to graduate from their degree program.  
+Certificate in Artificial Intelligence and Intelligent Systems  
+Certificate in Artificial Intelligence and Intelligent Systems  
+ 
+This certificate is open to currently registered Dalhousie students in all Faculties; it will not be open for direct application.  
+This certificate requires a student to take one required course and three electives at the fourth year level from a list of e lective courses 
+with at least a C in ea ch of them. The required course is:   
+909 • CSCI 3151: Foundations of Machine Learning  
+Elective courses are:  
+• CSCI 4141: Information Retrieval  
+• CSCI 4144: Data Mining and Data Warehousing  
+• CSCI 4152: Natural Language Processing  
+• CSCI 4155: Machine Learning with Robots  
+• CSCI 4156: Reinforcement Learning with Gaming Applications  
+Requirements  
+Note that to obtain a certificate, the degree requirements must be satisfied.   To be awarded a Certificate, students must apply to 
+graduate with a Certificate at the time they apply t o graduate from their degree program.  
+Certificate in Communication Technologies and Cyber 
+Security  
+Certificate in Communication Technologies and Cyber Security  
+ 
+This certificate is open to currently registered Dalhousie students in all Faculties; it will not be open for direct application.  
+This certificate requires a student to take two required courses and three electives from a list of elective courses with at least a C in 
+each of them. Required courses are:  
+• CSCI 3120: Operating Systems  
+• CSCI 3171: N etwork Computing  
+Elective courses are:  
+• CSCI 3172: Web -Centric Computing  
+• CSCI 4116: Cryptography  
+• CSCI 4169: Usable Privacy and Security  
+• CSCI 4171: Networks and Communications  
+• CSCI 4174: Network Security  
+• CSCI 4176: Mobile Computing  
+• CSCI 4178: Cyber Security and Defense  
+Requirements  
+Note that to obtain a certificate, the degree requirements must be satisfied.   To be awarded a Certificate, students must apply to 
+graduate with a Certificate at the time they apply to graduate from their degree program.  
+Certificate in Data Science  
+Certificate in Data Science  
+ 
+This certificate is intended for students completing a Bachelor of Computer Science, Bachelor of Science in Computer Science,  or a 
+Bachelor of Science in Statistics, but is open to currently registered Dalhousie students in all Faculties; it will not be open for direct 
+application.  
+This certificate requires a student to take two required courses and four electives from a list of elective courses with at l east a C in 
+each of them. Required cour ses are:  
+• CSCI 3151: Foundations of Machine Learning or STAT 3450: Statistical learning with R  
+ 
+• CSCI 4146: The Process of Data Science  
+Elective courses are:   
+910 • CSCI 4125: High Performance Computing  
+• CSCI 4141: Information Retrieval  
+• CSCI 4144: Introduction to Da ta Mining and Data Warehousing  
+• CSCI 4152: Natural Language Processing  
+• CSCI 4155: Machine Learning  
+• CSCI 4156: Reinforcement Learning with Gaming Applications  
+• CSCI 4166: Visualization  
+• STAT 2080: Statistical methods for Data Analysis and Inference  
+• STAT 2430: Data Visualization  
+• STAT 2450: Introduction to Data Mining with R  
+• STAT 3340: Regression and Analysis of Variance  
+• STAT 3360: Probability  
+• STAT 3740: Predictive Analysis  
+• STAT 4066: Advanced Statistical Theory  
+• STAT 4130: Bayesian Anaylsis  
+• STAT 4350: Multivariate Analysis  
+• STAT 4370: Stochastic Processes  
+• STAT 4390: Time Series Analysis  
+• STAT 4620: Data Analysis  
+• STAT 4690: Computational Statistics  
+Requirements  
+Note that to obtain a certificate, the degree requirements must be satisfied.   To be awarded a C ertificate, students must apply to 
+graduate with a Certificate at the time they apply to graduate from their degree program.  
+Certificate in Graphics, Gaming, and Media  
+Certificate in Graphics, Gaming, and Media  
+This certificate is open to currently registered Dalhousie students in all Faculties; it will not be open for direct application.  
+This certificate requires a student to take three required and two electives from a list of elective courses with at least a C in each of 
+them. Required c ourses are:  
+• CSCI 3161: Introduction to Computer Graphics with Animation  
+• CSCI 3162: Digital Media  
+• CSCI 4168: Game Design and Development  
+Elective courses are:  
+• CSCI 4156: Reinforcement Learning with Gaming Applications  
+• CSCI 4160: Computer Graphics  
+• CSCI 4166: Visualization  
+• CSCI 4167: Advanced Computer Animation  
+Requirements  
+Note that to obtain a certificate, the degree requirements must be satisfied.   To be awarded a Certificate, students must apply to 
+graduate with a Certificate at the time they apply to  graduate from their degree program.  
+Certificate in User Experience Design and Evaluation  
+This certificate requires a student to complete two compulsory courses, a minimum of one elective course from Group A, and th e 
+remaining three elective courses from e ither Group A or Group B.   The minimum number of courses to be completed for this 
+certificate is six and all courses must be completed with a grade of C or better.  
+Compulsary courses are:  
+• CSCI 3160.03: Designing User Interfaces   
+• CSCI 4163.03: Human Computer Interaction   
+911 Group A elective courses are:  
+• CSCI 4126.03: Ubiquitous Computing   
+• CSCI 4169.03: Usable Privacy and Security  
+• CSCI 4260.03: Persuasive Computing Design  
+Group B elective courses are:  
+• STAT 2080.03: Statistical Methods for Data Analysis and  Inference   
+• CSCI 4166 03: Visualization   
+• CSCI 4168.03: Game Design and Development   
+• CSCI 4176.03: Mobile Computing   
+• CSCI 3190.03: Community Outreach 1 or CSCI 3691.03 Intermediate Project  
+Note that to obtain a certificate, the degree requirements must be s atisfied. To be awarded a Certificate, students must apply to 
+graduate with a Certificate at the time they apply to graduate from their degree program.  
+Certificate in Web and Mobile Development  
+This certificate requires a student to complete four compulsor y and two elective courses with at least a C in each of them.  
+Required courses are:  
+• CSCI 3160.03: Designing User Interfaces   
+• CSCI 3172.03: Web -Centric Computing   
+• CSCI 4176.03: Mobile Computing   
+• CSCI 4177.03: Advanced Web Services  
+Elective courses are:  
+• CSCI 3151.03: Foundations of Machine Learning  
+• CSCI 4145.03: Cloud Computing   
+• CSCI 4169.03: Usable Privacy and Security   
+• CSCI 4171.03: Networks and Communications   
+• CSCI 4174.03: Network Security  
+Note that to obtain a certificate, the degree requirements mus t be satisfied. To be awarded a Certificate, students must apply to 
+graduate with a Certificate at the time they apply to graduate from their degree program.  
+Courses  
+ 
+Below you will find descriptions for courses offered in this field of study.  You will fin d a general overview of the topics covered and 
+any prerequisite course or grade requirements, credit value and exclusions.  
+The first digit of the course indicates the general level.  Those in the 1000 series are introductory degree level. Courses at the 200 0, 
+3000, 4000 series are typically available to students in the second, third, and fourth year. Courses numbered at the 5000 lev el or above 
+are graduate level. Courses listed at the 0100 or 0200 series are technology level courses. Courses below the 0100 l evel are generally 
+non credit courses.  
+Some courses are listed as exclusionary to one another.  This means that students may not  obtain credit for  both courses  as designated.  
+Not all courses are offered each year.  Please consult the current timetable  for this year ’s offering.  For further information please 
+contact the department, or visit the department's  website.  
+General Interest Courses  
+The Faculty offers a variety of courses that should be of interest to students whose major field of study while at Dalhousie will not be 
+Computer Science.   
+912 CSCI 1105.03:   Introduction to Computer Programming  
+CSCI 1107.03: Social Computing  
+CSCI 1108.03: Introduction to Experimental Robotics  
+CSCI 1109.03: Practical Data Science  
+CSCI 1200.03: Introduction to Computing for Non -Majors  
+CSCI 1206.03: Introduction to Website Creation  
+CSCI 2201.03: Information Security  
+CSCI 2202.03: Computer Modeling for Scientists  
+CSCI 2203.03: Data Science for Everyone  
+CSCI 3141.03: Foundations of Da ta Science using R  
+Course Descriptions  
+CSCI 1105 Introduction to Computer Programming  
+CREDIT HOURS: 3  
+This course provides a general introduction to computer programming. The main focus is on programming skills and how to apply  these skills in solving a 
+variety of problems. Procedural programming concepts are stressed.  
+CALENDAR NOTES: Students who complete CSCI 1110 with a grade of C or greater BEFORE completing CSCI 1105 will not receive cre dit for taking 
+CSCI 1105.  
+EXCLUSIONS: INFX 1600X/Y.18,  CSCI 1100.03, grade C or higher in CSCI 1110.03  
+ 
+ 
+CSCI 1107 Social Computing  
+CREDIT HOURS: 3  
+A hands -on course on technologies and the underlying infrastructure for social computing, including digital collaboration media, soci al networks and 
+visualization , and their social impact. Students will use various applications, such as Twitter, YouTube, and wikis to examine their funct ionalities, and explore 
+infrastructure technologies including databases, computer networks and Web -servers that facilitate their ex ecution.  
+ 
+ 
+CSCI 1108 Introduction to Experimental Robotics  
+CREDIT HOURS: 3  
+This course is an introduction to computing in the real world, experimental evaluation, and basic team work and project manag ement. These themes are 
+explored through the study of th e challenges and techniques for modeling, designing, and programming robotic systems to perfom complex tasks in a 
+changing and uncertain environment.  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1109 Practical Data Science  
+CREDIT HOURS: 3  
+This course will provide students wit h a practical overview of the world of data science research. Through hands -on use of Python ’s data science libraries and 
+publicly open datasets students will be exposed to the research methods and cutting -edge analyses used to effectively manipulate, proc ess and investigate data 
+from diverse disciplines.  
+EXCLUSIONS: CSCI 2203.03  
+ 
+ 
+CSCI 1110 Introduction to Computer Science  
+CREDIT HOURS: 3  
+This course provides a general introduction to computer science and the hardware and software of computers. The main f ocus is on programming skills and 
+how to apply these skills in solving a variety of problems. Algorithmic concepts, linear data structures are emphasized.  
+CALENDAR NOTES: This course assumes that the student has some programming experience.  
+EXCLUSIONS: CSC I 1101.03  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1120 Introduction to Computer Systems  
+CREDIT HOURS: 3  
+This course introduces some key concepts in computer systems. Students will learn fundamental systems concepts and apply them  to explain how the 
+hardware and software environment affects program behaviour. Topics include data and program representation, program translation, operating systems , 
+software engineering, and networking.  
+EXCLUSIONS: INFX 1615.03, INFX 1616.03  
+FORMATS: Lecture   
+913  
+ 
+CSCI 1170 Introduction to Web Design and Development  
+CREDIT HOURS: 3  
+This course introduces students to key web concepts and skills for designing, implementing, and maintaining web content. Topi cs include introduction to the 
+Web, UI and UX best practices, hypertext markup languages such as HTML, style sheets, client side programming, multimedia foundations, dynamic content 
+and web content organization and maintenance.  
+CALENDAR NOTES: This course assumes that the student has some programming experience.  
+EXCLUSIONS: CS CI 1206.03, INFX 1606.03  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1200 Introduction to Computing for Non -Majors  
+CREDIT HOURS: 3  
+This is a course of technical computer literacy. Students can expect to learn about computers in a general way and how comput ers affect the way we live and 
+work. Students will be given an opportunity to become familiar with typical applications of software such as word processors,  spreadsheets and database 
+applications. Other topics will include the use of the internet, creation of web pages, and simple programming concepts. No previous computer experience is 
+required. This course is open to Arts and Social Sciences and Health Education students only.  
+CALENDAR NOTES: This course cannot be counted towards the Bachelor of Commerce or a Minor in Busin ess. 
+CROSSLISTED: ASSC 1000.03  
+ 
+ 
+CSCI 1206 Web Design and Development for Everyone  
+CREDIT HOURS: 3  
+If you are curious about how the World Wide Web works, how websites are designed and built, or how web browsers interact with  the web, this course is the 
+right one for you. Designed specifically for students with little to no experience in web design and development, this course in troduces students to the 
+processes involved in designing and developing websites. From a design perspective, we will explore graphi c design principles as applied on the web, web 
+accessibility and usability principles, as well as The Web Standards Project and UX design best practices. From a development  perspective, we will focus on 
+the three core languages of web development: HTML for  content structure, CSS for styling, and Javascript for adding a dynamic layer to your webpages.  
+CALENDAR NOTES: This course is only available to Non -CS Majors.  
+EXCLUSIONS: CSCI 1170, INFX 1606  
+ 
+ 
+CSCI 1300 Calculus in Computer Science  
+CREDIT HOURS: 3  
+This course is an introduction to calculus with a focus on applications to computer science. Students will be exposed to examples from graphics, machine 
+learning, robotics, simulation, and other areas of computer science. Topics covered will include single vari able limits, derivatives, integrals, differential 
+equations, and Fourier series.  
+PREREQUISITES: Nova Scotia Mathematics advanced 11 and 12 or pre -calculus. Pre -calculus is highly recommended.  
+EXCLUSIONS: MATH 1000, MATH 1215, MATH 1280, MATH 1500  
+ 
+ 
+CSCI 13 15 Discrete Mathematics for Computer Science  
+CREDIT HOURS: 3  
+This course is an introduction to formal reasoning and discrete mathematics with applications to computer science. Students w ill be introduced to formal 
+notation and reasoning about problems and algorithms. Topics include: sets, sequences, and summations, simple proof techniques, elementary number theory, 
+back -of-the-envelope approximations, combinatorial objects. Applications and relevance of these concepts in computer science will be emph asized.  
+CALENDAR NOTES: Students should either have some programming experience or be taking an introductory course on programming at  the same time as 
+this course.  
+PREREQUISITES: Nova Scotia Advanced Mathematics 441 or equivalent  
+EXCLUSIONS: CSCI 2112.03 or MATH 2112.03  
+ 
+ 
+CSCI 1503 Programming for Business  
+CREDIT HOURS: 3  
+This course provides an introduction to computer programming for business. The focus is on using programming skills to solve business problems related to 
+data cleaning, data entry automation and business data processing. This course takes a case -based approach and is designed to prepare students for the 
+Bachelor of Management and Bachelor of Commerce programs.  
+EXCLUSIONS: CSCI 1100, CSCI 1105  
+ 
+ 
+CSCI 1615 Concepts in Computing   
+914 CREDIT  HOURS: 3  
+This course introduces some key concepts in computing and places them in context with a survey of applications. The skills de veloped in this course include 
+research, redaction, problem solving and abstraction. The themes covered are the following : Data and storage, operating systems, networking and the Internet, 
+database systems, artificial intelligence and computer graphics. This course is eligible to partially cover the writing requi rement for students in the Faculty of 
+Computer Science.  
+CROSSLISTED: INFX 1615.03  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1616 Applications in Computing  
+CREDIT HOURS: 3  
+This course covers professional aspects of the computing industry. The main themes are: project management, software engineer ing and computer languages. 
+It explores how technological advances impact the workplace for non -technical people. It also includes a module on proofreading and editing. This course is 
+eligible to partially cover the writing requirement for students in the Faculty of Computer Science.  
+CRO SSLISTED: INFX 1616  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1800 Computing and Society in History  
+CREDIT HOURS: 3  
+This course introduces students to the history of computing from early mechanical devices to the internet. Students will lear n to read, write, and discuss 
+scholarly arguments about how computing has shaped society, and how society has shaped computing, over time.  
+EXCLUSIONS: HSTC 1800.03, HSTC 1200.06, HIST 2074.06 HSTC 2200.06, and SCIE 2000.06  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1801 Case Studies in Computing and Soci ety  
+CREDIT HOURS: 3  
+This course introduces students to specific topics in the history of computing. Topics may include algorithms, automation, or  information. Students will learn 
+to read, write, and discuss scholarly arguments about how computing has shap ed society, and how society has shaped computing, over time.  
+EXCLUSIONS: HSTC 1801.03, HSTC 1200.06, HIST 2074.06, HSTC 2200.06, SCIE 2000.06  
+FORMATS: Lecture  
+ 
+ 
+CSCI 1900 Academic Foundations for Computer Science Studies  
+CREDIT HOURS: 3  
+This course lays the foundations for academic success in computer science studies via development of academic literacies and language skills. In this seminar -
+style course, students develop the ability to use academic English flexibly, in spoken and written modes, according  to the norms of the language practices in 
+computer science studies.  
+ 
+ 
+CSCI 2100 Workplace Communications for Computer Science  
+CREDIT HOURS: 3  
+This course helps students communicate effectively and with confidence in a variety of workplace settings. Studen ts learn to understand their audience and to 
+deliver accurate, effective messages. Written assignments and oral presentations allow for the development of these skills th rough practice.  
+PREREQUISITES: Two of (CSCI 1800.03 or ASSC 1800.03), (CSCI 1801.03 or  ASSC 1801.03), and CSCI 1900.03  
+EXCLUSIONS: COMM 2701.03, COMM 1701.03, COMM 1702.03, MGMT 3602.03  
+ 
+ 
+CSCI 2110 Data Structures and Algorithms  
+CREDIT HOURS: 3  
+This course provides a comprehensive introduction to data structures and algorithms, including th eir design, analysis, and implementation. In discussing 
+design and analysis there is a strong emphasis on abstraction. In discussing implementation, general approaches that are appl icable in a wide range of 
+procedural programming language are emphasized, i n addition to a focus on the details of implementations. Topics include an introduction to asymptotic 
+analysis and a review of basic data structures (stacks, queues, lists, vectors), trees, priority queues, dictionaries, hashin g, search trees, sorting (Mer geSort, 
+QuickSort, RadixSort) and sets, and graphs (traversals, spanning trees, shortest paths).  
+PREREQUISITES: CSCI 1101.03 or CSCI 1110.03  
+ 
+ 
+CSCI 2112 Discrete Structures I  
+CREDIT HOURS: 3  
+See the course description for MATH 2112.03 in the Mathematics se ction of this calendar.   
+915 CROSSLISTED: MATH 2112.03  
+ 
+ 
+CSCI 2113 Discrete Structures II  
+CREDIT HOURS: 3  
+See the course description for MATH 2113.03 in the Mathematics section of this calendar.  
+PREREQUISITES: CSCI 1315 or CSCI 2112 or MATH 2112  
+CROSSLISTED: MATH 2113.03  
+ 
+ 
+CSCI 2114 Mathematical Applications in Computing  
+CREDIT HOURS: 3  
+This course explores the applications of differential and integral calculus and linear algebra in Computer Scie nce. Examples of application areas include, but 
+are not limited to, computer graphics and animation, digital media, and machine learning.  
+PREREQUISITES: (CSCI 1300.03 or MATH 1000.03), MATH 1030.03, CSCI 1110.03  
+ 
+ 
+CSCI 2115 Theory of Computer Science  
+CREDI T HOURS: 3  
+This course introduces students to fundamental ideas in computer science. The first part of the course is an introduction to finite state machines and automata 
+theory and its applications. Students will be introduced to finite automata, push -down automata, Turing machines, and other models of computation, with 
+particular emphasis on finite automata. The second part of the course introduces students to asymptotic notation, complexity,  and culminates with an 
+introduction to NP -completeness.  
+PREREQU ISITES: CSCI 1110.03, CSCI 1120.03, and (CSCI 1315.03 or CSCI 2112.03 or Math 2112.03)  
+EXCLUSIONS: CSCI 3136.03  
+ 
+ 
+CSCI 2122 Systems Programming  
+CREDIT HOURS: 3  
+This course presents tools, techniques, and concepts for systems programming. Students will be e xposed to assembly and will be introduced to the C 
+programming language. The course also discusses memory hierarchies, performance measurement, exception control flow, and perf ormance related issues. 
+Students will be involved in significant amount of low -level programming.  
+PREREQUISITES: (CSCI 1101.03 or CSCI 1110.03) and CSCI 1120.03  
+EXCLUSIONS: CSCI 2121.03  
+ 
+ 
+CSCI 2133 Rapid Programming Techniques for Innovation  
+CREDIT HOURS: 3  
+The goal of this course is to introduce students to advanced programming techniques and practical issues in building and main taining software systems, with 
+an emphasis on techniques used in rapid prototype building for implementation of innovative ideas. T he course also introduces principles of design thinking 
+and designing feasible software systems that address real problems. The students are trained to follow and design requirement  specifications, build software 
+systems according to specifications, design  testing frameworks, use techniques for system debugging and performance measuring, and improve and maintain 
+such systems. The course evaluation is based on individual assignments, and a team project that involves developing a multi -tier system that solves  a real 
+problem. The course is not strongly associated with one programming language, but instead it exposes students to different la nguages and tools. Intermediate 
+knowledge of C and Java language are assumed.  
+PREREQUISITES: CSCI 2134 or equivalent progr amming experience  
+FORMATS: Lecture  
+ 
+ 
+CSCI 2134 Software Development  
+CREDIT HOURS: 3  
+This course presents techniques and methodologies for software development with modern tools. It introduces students to the s oftware development life cycle 
+and best practi ces for source code management, testing, debugging, and building. Particular focus will be on building individual skills in t he development and 
+testing phases of the life cycle. Students will be expected to work with existing medium -size code -bases that ar e implemented in different programming 
+languages. Students will be exposed to a variety of software tools and will be expected to use them throughout the course.  
+PREREQUISITES: CSCI 1101.03 or CSCI 1110.03  
+EXCLUSIONS: CSCI 2132.03  
+ 
+ 
+CSCI 2141 Introduction to Database Systems  
+CREDIT HOURS: 3  
+This course introduces students to the concepts of database management systems and database design. Topics include: Database (DB) components, DB design  
+916 using entity -relationship (relational and object oriented), SQL, and  transactional properties and techniques to support them. The concepts will be reinforced 
+using one or more Database Management Systems.  
+PREREQUISITES: CSCI 1100.03 or CSCI 1101.03 or CSCI 1105.03 or CSCI 1110.03 or CSCI 1503.03 or CSCI 2202.03  
+CROSSLISTED : INFX 2640.03  
+EXCLUSIONS: CSCI 2140.03  
+ 
+ 
+CSCI 2170 Introduction to Server Side Scripting  
+CREDIT HOURS: 3  
+A server side scripting language is used to create web pages with dynamic content. The course provides the technology necessa ry for connecting client web 
+pages to web servers and processing and storing information obtained using forms during web sessions.  
+COREQUISITES: CSCI 2141.03 may be taken as a co -requisite  
+PREREQUISITES: (CSCI 1206.03 or CSCI 1170.03 or INFX 1606.03) and CSCI 214 1.03 
+CROSSLISTED: INFX 2670.03  
+ 
+ 
+CSCI 2201 Introduction to Information Security  
+CREDIT HOURS: 3  
+Information security is becoming increasingly important in today's networked world, and is impacting every aspect of our live s including finance, healthcare, 
+government, education, arts and entertainment. The objective of this course is to teach the basic principles of information sec urity from the perspective of 
+providing security awareness and its best practices for the real world. Topics include motivation for  security, tools and techniques used by adversaries to 
+gather information and launch attacks, Internet security, firewalls, basics of encryption and authentication, virus protectio n, secure credit card and bank 
+transactions, wireless security, computer for ensics, identify theft and protection, anti -phishing and biometric security.  
+CROSSLISTED: INFX 2601.03  
+ 
+ 
+CSCI 2202 Introduction to Programming with Applications for Scientists  
+CREDIT HOURS: 3  
+This is an introductory, project based, programming course for s cience majors. The course focuses on programming techniques useful for students in their 
+scientific pursuits. The course introduces basic programming in Python and then goes on to guide students through using simul ations, modelling and data -
+driven analysis . Examples and projects will be taken primarily from the fields of biology, genetics, neuroscience, psychology, earth science s, chemistry 
+among others.  
+PREREQUISITES: Students must have successfully completed a minimum of 3.0 credit hours in Math at the 1 000 level.  
+ 
+ 
+CSCI 2203 Data Science for Everyone  
+CREDIT HOURS: 3  
+This course will provide students with an overview of the world of data science research. It will focus on how the analysis o f data from social media and other 
+internet -based sites (e.g. Twit ter, YouTube, images, Wikipedia, Google books) can be used to tackle complex and fascinating societal questions (e.g. 
+revealing insights about how happy we are, who we are friends with, how often we lie). This course will survey several exciti ng research p rojects in this field 
+and provide students with a general understanding about the research methods and analyses (e.g. machine learning, social netw ork analysis) in a non -technical 
+manner that is accessible to students of various educational backgrounds. Th e course content will be portrayed through a blend of lectures, multi -media, 
+accessing on -line materials/articles, assignments to enhance critical thinking and discussion -based formats.  
+EXCLUSIONS: CSCI 1109.03  
+ 
+ 
+CSCI 2204 Social Media and Content Creatio n for Everyone  
+CREDIT HOURS: 3  
+In today ’s world, it is difficult not to think about social media applications as a way to create a business or personal brand. This c ourse explores the 
+relationship between social media applications and the user as a content  creator, developer and manager. We explore popular social media applications, their 
+functionality and infrastructure, interface and content design (content creation), search engine optimization and search algo rithms(development), and connect 
+them with pri nciples of usability and user experience (management), in order to provide a better understanding of a target users ’ behavior on the web. By 
+combining theory and application in a hands -on hybrid learning environment, this course aims to provide a fun and c reative way of exploring the behind -the-
+scenes of social media applications and content creation and management. Whether you are interested on podcasting, vodcasting , streaming, video sharing, or 
+other forms of storytelling, you can tailor this course base d on your personal goals, and better showcase yourself as an artist, marketer, or influencer, and 
+increase the visibility of your brand.  
+ 
+ 
+CSCI 2360 Probability and Statistics for CS  
+CREDIT HOURS: 3  
+This course is an introduction to probability theory and statistics with applications to computer science, in particular to data science and experimental 
+computer science. Students will be introduced to the idea of random numbers and the formal language of reasoning with uncerta inty as well as with the basic 
+tools and an outlook of advanced tools for experimental investigations in computer science such as HCI. What is a random number,  probability mass and  
+917 density functions, data analytics, probabilistic reasoning, basic hypothesis testing, sample size estimation,  and inter -rater reliability. Applications and 
+relevance of these concepts in computer science will be emphasized.  
+PREREQUISITES: CSCI 1300 or MATH 1000 or MATH 1280) and (CSCI 1105 or CSCI 1110 or CSCI 1503 or CSCI 2202)  
+EXCLUSIONS: STAT 2060, ENGM 2032, ECON 2260, MATH 2060  
+ 
+ 
+CSCI 2690 Introduction to Software Projects  
+CREDIT HOURS: 3  
+Students learn how software projects are planned, implemented, and closed. Topics include plan development, project life cycl es, software development life 
+cycles, measurable  organizational value, work breakdown structures, scheduling, scope, risk, change requests, conflict resolution, closure, and post-mortems.  
+CROSSLISTED: INFX 2690  
+FORMATS: Lecture  
+ 
+ 
+CSCI 2691 Introductory Project  
+CREDIT HOURS: 3  
+Students take junior roles in project teams to solve a real -world information technology problem. Team members are drawn from all years of study. The 
+project gives students an opportunity to develop their technical, management, and professional skills.  
+PREREQUISITES: (CSCI 1170.03 or CSCI 1206.03 or INFX 1606.03) and (CSCI 1100.03 or CSCI 1101.03 or CSCI 1105.03 or CSCI 1110.03 )  
+CROSSLISTED: INFX 2691  
+FORMATS: Lecture  
+ 
+ 
+CSCI 3101 Social, Ethical and Professional Issues in Computer Science  
+CREDIT HOURS: 3  
+Computers can enable people to do things that our present laws and policies were not formulated to cover (hacking, sharing fi les on the internet, and 
+companies sharing data). In such cases, people need to be able to decide for themselves the best course o f action, and defend such decisions. This course aims 
+at developing the ethical reasoning skills and sensitivities that computer professionals will need to make good decisions and  to justify them. The course 
+includes a general introduction to ethical theor ies and their use in making and justifying decisions. We then consider various issues and case studies, 
+illustrating the kinds of problems that can arise from the use and misuse of computers and technology: the responsibilities o f computing professionals; ethics 
+on the internet (hacking, computer crime, netiquette); privacy and information; intellectual property; social and political i ssues (digital divide, computers and 
+work, the internet as a democratic technology).  
+CROSSLISTED: PHIL 2490.03  
+ 
+ 
+CSCI 3110 A lgorithms I  
+CREDIT HOURS: 3  
+This course covers techniques for the design and analysis of efficient algorithms and data structures. Topics include asympto tic analysis, divide and conquer 
+algorithms, greedy algorithms, dynamic programming, data structure des ign, optimization algorithms, and amortized analysis. The techniques are applied to 
+problems such as sorting, searching, identifying graph structure, and manipulating sets.  
+PREREQUISITES: CSCI 2110.03 and CSCI 2115.03  
+ 
+ 
+CSCI 3120 Operating Systems  
+CREDIT H OURS: 3  
+This course includes a review of I/O and interrupt structures. Topics covered include dynamic procedure activation, system st ructure and evaluation, memory 
+management, process management, process scheduling, recovery procedures, concurrency, deadlo cks, resource allocation, protection, and operating systems 
+implementation.  
+PREREQUISITES: CSCI 2110.03, (CSCI 2121.03 or CSCI 2122.03), and (CSCI 2132.03 or CSCI 2134.03)  
+ 
+ 
+CSCI 3121 The Need for Speed: From Pipelines to Massively Parallel Machines  
+CREDIT HOURS: 3  
+This course discusses why a modern CPU represents a massive parallel machine and what impact this has on how applications vie w the CPU. Topics include: 
+evaluation of CPU performance; instruction level parallelism (ILP) and the vari ous consequential complexities such as out -of- order execution, branch 
+prediction, and speculative execution; design of memory hierarchies that support ITP; and complexities of multi -core design, including cache consistency and 
+special purpose processors s uch as the Graphics Processing Unit.  
+PREREQUISITES: CSCI 2121.03 or CSCI 2122.03  
+EXCLUSIONS: ECED 3403.03  
+ 
+ 
+CSCI 3130 Introduction to Software Engineering   
+918 CREDIT HOURS: 3  
+The course examines the process of software development, from initial planning throug h implementation and maintenance. A brief survey of available tools 
+and techniques will be presented covering the topics of analysis, planning, estimating, project management, design, testing, and evaluation. Particular 
+emphasis will be given to organizing  and planning, team participation and management, top -down design and structure charts, system and information flow 
+diagrams, walk -throughs and peer review, and testing and quality control.  
+PREREQUISITES: CSCI 2110.03 and (CSCI 2132.03 or CSCI 2134.03)  
+CRO SSLISTED: INFX 3630.03  
+ 
+ 
+CSCI 3132 Object Orientation and Generic Programming  
+CREDIT HOURS: 3  
+This course deals with the fundamental concepts of object -oriented programming: behaviour, inheritance, encapsulation and polymorphism. There is a 
+discussion of t he history of object -oriented programming, and introduction to some currently used object -oriented programming languages.  
+PREREQUISITES: CSCI 2110.03 and (CSCI 2132.03 or CSCI 2134.03)  
+ 
+ 
+CSCI 3136 Principles of Programming Languages  
+CREDIT HOURS: 3  
+This course provides a comparative study of advanced programming language features. Topics include statement types, data types, va riable binding and 
+parameter passing mechanisms. Formal methods for syntactic and semantic description of programming languages are  examined.  
+PREREQUISITES: CSCI 2110.03, (CSCI 1315.03 or CSCI 2112.03), and (CSCI 2132.03 or CSCI 2134.03)  
+ 
+ 
+CSCI 3137 Principles of Programming Languages  
+CREDIT HOURS: 3  
+This course provides a comparative study of programming language features. It provide s a comparison of different programming paradigms, discusses control 
+and data abstractions with a focus on the underlying principles instead of syntax, and investigates some implementation conce rns that drive the design choices 
+made in different programmin g languages. It also provides students with hands -on experience with modern non -object -oriented imperative programming 
+languages, including functional and logic programming. The goal is to broaden the students ’ understanding of the landscape of programming  languages and to 
+enable them to compare the capabilities of different programming languages with the goal of choosing an appropriate language for a given project.  
+PREREQUISITES: CSCI 2110.03 and CSCI 2122.03  
+EXCLUSIONS: CSCI 3136.03  
+ 
+ 
+CSCI 3141 Foundation s of Data Science using R  
+CREDIT HOURS: 3  
+The course provides an introduction to the main steps of a typical data science project, using the R language and environment  as the illustration tool. The 
+course addresses the theoretical foundations of several ke y methods and techniques used in data science projects, from data importation and manipulation, 
+going through data visualization and model building, to reporting and deployment. The course is targeted to students without a strong technical background on 
+programming or computer science tools. The theoretical concepts are motivated and introduced through practical case studies wit h the help of the R 
+environment.  
+ 
+ 
+CSCI 3151 Foundations of Machine Learning  
+CREDIT HOURS: 3  
+This course aims to introduce the mach ine learning, deep networks, natural language processing, the process and practice of data science, data mining and 
+data warehousing. The following topics will be introduced: linear regression, optimization by gradient descent, support vecto r machines, dec ision tree 
+classifiers, naive Bayes classifiers, multilayer neural networks, clustering, evaluation of classification and clustering alg orithms, cross -validation, avoiding 
+overfitting. Students will use a standard machine learning library to apply algorith ms to various datasets.  
+PREREQUISITES: CSCI 2110.03, (CSCI 1315.03 or CSCI 2112.03), CSCI 2141.03, (STAT 2060.03 or CSCI 2360.03), and MATH 1030.03  
+ 
+ 
+CSCI 3160 Designing User Interfaces  
+CREDIT HOURS: 3  
+This course deals with concepts and techniques underl ying the design of interactive systems. Both human factors and the technical methods of user interface 
+design are covered. Students will learn how to apply various techniques through the design, creation, and testing of a protot ype system.  
+PREREQUISITES:  CSCI 1170.03 or CSCI 1206.03 or INFX 1606.03  
+ 
+ 
+CSCI 3161 Introduction to Computer Graphics and Animation  
+CREDIT HOURS: 3  
+The course provides students with a practical foundation in high -level computer animation programming. Through the development of a sig nificant project  
+919 using industry standard graphics libraries, students will learn proven techniques that have become common currency in the fie ld of computer animation.  
+PREREQUISITES: CSCI 2110.03, (CSCI 2132.03 or CSCI 2134.03), and MATH 1030.03  
+ 
+ 
+CSCI 316 2 Digital Media  
+CREDIT HOURS: 3  
+This course covers technical aspects of digital media, including images, video, and sound. Topics covered include digital rep resentation, processing, 
+compression, and multimedia generation.  
+PREREQUISITES: (CSCI 1300.03 or MA TH 1000.03), MATH 1030.03, CSCI 2110.03  
+EXCLUSIONS: CSCI 4165.03  
+ 
+ 
+CSCI 3171 Network Computing  
+CREDIT HOURS: 3  
+This course gives students a foundation in computer networks. It presents a top -down view of the layered architectural elements of communication systems, 
+focusing on the Internet and TCP/IP. Topics include client/server systems, packet switching, protocol stacks, queuing theory,  application protocols, socket 
+programming, remote service calls, reliable transport, UDP, TCP, and security.  
+PREREQUISITE S: CSCI 2110.03, and (CSCI 2132.03 or CSCI 2134.03)  
+ 
+ 
+CSCI 3172 Web -Centric Computing  
+CREDIT HOURS: 3  
+This course provides a solid grasp of core WWW technologies and a conceptual framework for understanding the development of t he WWW and working 
+with future web technologies. The course explores interactive and non -interactive web applications built using various technologies and architectural models. 
+We explore the significance of web design and programming concepts in terms of accessibility issues bot h from the perspective of web robots and end -users. 
+Web caching, proxy techniques, and security issues are also discussed.  
+PREREQUISITES: (CSCI 2132.03 or CSCI 2134.03), CSCI 2141.03 and (CSCI 2170.03 or INFX 2670.03)  
+ 
+ 
+CSCI 3190 Community Outreach  
+CREDIT HOURS: 3  
+This is a project -oriented course where the result of the project is a real -world implementation that meets the requirements of a community group such as a 
+charity, non -profit organization, or educational institution. Students work in teams on the  entire application development life cycle from requirements analysis 
+through to maintenance. Lectures cover a range of topics such as practical application of requirements analysis, systems desi gn, and database design 
+methodological skills developed in pr erequisite courses or from prior equivalent experience. This course cannot be counted towards a Bachelor of Informatics 
+degree.  
+PREREQUISITES: CSCI 2100.03, (CSCI 2132.03 or CSCI 2134.03), and (CSCI 2140.03 or CSCI 2141.03)  
+ 
+ 
+CSCI 3691 Intermediate Project  
+CREDIT HOURS: 3  
+Students perform design and development roles in project teams to solve a real -world information technology problem. Team members are drawn from all 
+years of study. The project gives students an opportunity to develop their design, technical, management, a nd professional skills.  
+PREREQUISITES: CSCI 2134.03, 2141.03, CSCI 2170.03, CSCI 2690.03, CSCI 2691.03  
+CROSSLISTED: INFX 3601  
+FORMATS: Lecture  
+ 
+ 
+CSCI 3901 Software Development Concepts  
+CREDIT HOURS: 6  
+This course covers the (i) application of standard ab stract data types, fundamental data structures, and commonly used algorithms; (ii) design and 
+implementation of databases; and (iii) the fundamental practice of software engineering.  
+CALENDAR NOTES: This course is intended to fill in the knowledge gaps th at incoming graduate students may have. Students must receive a B - or higher 
+in this course.  
+COREQUISITES: CSCI 5100.03  
+RESTRICTIONS: Inclusive GR Level Restriction  
+ 
+ 
+CSCI 4101 Privacy & Access for the IT Professional  
+CREDIT HOURS: 3  
+This course will disc uss the concepts and legislative requirements of privacy and information access as it applies to computer systems in the worl d of 
+business, public service, NGOs, and research. Students will be introduced to what privacy is (and isn ’t) and how it is differe nt from security. Students will  
+920 learn enterprise risk management regarding privacy and access; administration of privacy in computing systems; use of persona l information in research and 
+database development; as well as communication with business/program owners as regards technological solutions using personal and sensitive information. 
+The course will also cover topics such as: privacy impact analysis; freedom of information and privacy; privacy in data -mining and data -matching; open data 
+and routine disc losure; privacy issues involving: machine learning, identification/tracking technology, and Artificial Intelligence; and priv acy concerns with 
+social media, apps, and emerging technologies. As well as learning the technicalities of privacy and information access, students will learn the ethics and 
+social impacts of this field.  
+ 
+ 
+CSCI 4102 Product Management for the Digital World  
+CREDIT HOURS: 3  
+The Product Management for the Digital World course explores relevant entrepreneurial principles, theories, and m ethods for organising and managing 
+significant design and innovation activity when bringing digital products to market successfully. The course seeks to develop  students ’ strategic planning 
+skills and teamworking abilities, while encouraging entrepreneuria l thinking. By examining how digital companies are created, why digital products fail, and 
+how risks of failure may be minimized, students develop independent research skills and their ability for critical thinking. The course aims to develop 
+students ’ capacity to apply knowledge, tools, techniques, project management and leadership principles to the creation of unique business models for the 
+development and management of innovative digital products and services; they will identify appropriate branding and marketing strategies, and 
+communication channels to deliver strategic plans effectively.  
+PREREQUISITES: CSCI 3160.03 and CSCI 4193.03  
+ 
+ 
+CSCI 4112 Theory of Computation  
+CREDIT HOURS: 3  
+This is a course on formal languages and computational models. Topics c overed include finite automata, pushdown automata, Turing machines, 
+undecidability and recursive and recursively enumerable functions. Some applications to computer science are also discussed s uch as compiler design and text 
+processing.  
+PREREQUISITES: (CSC I 1315.03 or CSCI 2112.03) and (CSCI 2115.03 or CSCI 3136.03)  
+CROSSLISTED: MATH 4660.03  
+ 
+ 
+CSCI 4113 Design and Analysis of Algorithms II  
+CREDIT HOURS: 3  
+This course covers advanced techniques for the design and analysis of efficient algorithms. Problems ar e taken from a wide range of areas including 
+combinatorics, numerical computation, graph algorithms, string matching, approximation algorithms, computational geometry, an d NP -Completeness.  
+PREREQUISITES: CSCI 3110.03  
+CROSSLISTED: MATH 4130.03  
+ 
+ 
+CSCI 4115 Topics in Graph Theory  
+CREDIT HOURS: 3  
+See the course description for MATH 4330 in the Mathematics section of this calendar.  
+PREREQUISITES: See Mathematics section  
+CROSSLISTED: MATH 4330.03  
+ 
+ 
+CSCI 4116 Cryptography  
+CREDIT HOURS: 3  
+See the course descr iption for MATH 4116 in the Mathematics section of this calendar.  
+PREREQUISITES: See Mathematics section  
+CROSSLISTED: MATH 4116.03  
+ 
+ 
+CSCI 4117 Advanced Data Structures  
+CREDIT HOURS: 3  
+Data structures play a central role in many modern applications, and are  essential building blocks of efficient algorithms. This course covers classical results 
+and recent advancements on data structures. Topics covered include the O(lg n) barrier in sorting and searching, online optim ization of search structures, fast 
+text re trieval, space efficient data structures for large date sets, and persistent data structures.  
+PREREQUISITES: CSCI 3110.03  
+ 
+ 
+CSCI 4118 Algorithm Engineering  
+CREDIT HOURS: 3  
+This course presents techniques and methodologies for Algorithm Engineering. Student s will learn best practices for developing efficient algorithms and easy - 
+921 to-use, well -tested, and high -performance implementations of algorithms for real world use. Practical algorithm concerns include maintaining numerical 
+precision, optimizing for realis tic rather than worst case inputs, cache efficient computing for processing big data, analysis of parallel and GPU algorithms , 
+predicting the results of design choices and running experiments to verify those choices. The course includes lectures, hands -on labs exploring each aspect, 
+reading assignments and discussions, and a course project providing the opportunity to gain hands -on experience with algorithm engineering techniques.  
+PREREQUISITES: CSCi 3110  
+ 
+ 
+CSCI 4119 Lossless Data Compression and Compact Da ta Structures  
+CREDIT HOURS: 3  
+The speed at which our humanity generates and gathers data has outpaced even our ability to process and store it. Fortunately , much of this data is 
+compressible — sometimes by several orders of magnitude. In the first part of this course we ’ll cover the mathematical foundations of lossless compression 
+and on efficient compression algorithms. Those results enable efficient transmission and storage of massive datasets, but oft en we want to work with those 
+datasets without decompr essing them, so the second part of the course will cover compressed data structures and computation over compressed data. The  third 
+part of the course will review the development of data structures for pangenomics as a case study in handling massive but hi ghly compressible datasets.  
+ 
+ 
+CSCI 4125 High Performance Computing  
+CREDIT HOURS: 3  
+This course explores the design, implementation, and evaluation of computer programs for applications in which performance is  a central issue. In the 
+sequential computing se tting, it explores topics such as profiling, cache effects, I/O performance, floating -point issues, compiler directives and performance 
+tuning. In the parallel computing setting it introduces techniques for the design, implementation and evaluation of prog rams for both Shared -Memory 
+Multiprocessors (SMPs) and Distributed Memory Multicomputers (clusters). It is recommended that students take CSCI 3121 prior  to taking this course.  
+PREREQUISITES: CSCI 3120.03  
+ 
+ 
+CSCI 4126 Ubiquitous Computing  
+CREDIT HOURS: 3  
+Ubiquitous Computing moves computing off the desktop and into the fabric of our everyday lives. This course explores both syste ms and human --centric 
+advances in Ubiquitous Computing, including sensing, middleware, locative applications, smart environments, a mbient displays, and tangible interaction. 
+Students will design and implement a Ubiquitous computing application prototype.  
+PREREQUISITES: CSCI 3160.03 and CSCI 3171.03  
+ 
+ 
+CSCI 4130 Applied Machine Learning for Software Engineering Applications  
+CREDIT HOURS : 3 
+We are witnessing proliferation of machine learning and deep learning techniques to various domains such as business, educati on, entertainment, and 
+technology. This course is designed to equip students with knowledge to apply machine learning, includin g deep learning, techniques for real -world 
+applications. The focus of the course will be on software engineering applications such as software quality assessment and pr ogram comprehension. The 
+course will present a pragmatic perspective of problem and solu tion space and help students solve domain -specific problems with machine -learning 
+techniques.  
+PREREQUISITES: CSCI 3130.03 and CSCI 3151.03  
+ 
+ 
+CSCI 4140 Advanced Database Systems  
+CREDIT HOURS: 3  
+This course covers advanced Database (DB) topics including, but not limited to: DB design, normalization query processing and optimization, transaction 
+processing, concurrency control and recovery, and distributed databases. Additional topics may include object -oriented databases, multi -databases, data 
+integration and data warehousing.  
+PREREQUISITES: CSCI 2141.03 and (CSCI 2170.03 or CSCI 3120.03)  
+EXCLUSIONS: CSCI 3140.03  
+ 
+ 
+CSCI 4141 Information Retrieval  
+CREDIT HOURS: 3  
+This course examines information retrieval within the context of full text databases.  Topics include the major models of information retrieval, evaluation, 
+searching and clustering, and hypertext.  
+PREREQUISITES: CSCI 2110.03 and (CSCI 2140.03 or CSCI 2141.03)  
+ 
+ 
+CSCI 4144 Introduction to Data Mining and Data Warehousing  
+CREDIT HOURS: 3  
+This course reviews main concepts in data mining and data warehouses including objectives, architectures, algorithms, implementati ons, and applications. The  
+922 topics covered include operational information process, decision -oriented information process, data war ehousing and On -Line Analytical Process (OLAP), 
+characterization mining, association rule mining, classification and predication and clustering. Selected system tools for da ta mining and data warehousing are 
+introduced.  
+PREREQUISITES: CSCI 2110.03 and CSCI  2141.03  
+ 
+ 
+CSCI 4145 Cloud Computing  
+CREDIT HOURS: 3  
+Cloud computing provides users with the ability to access and use computational, storage, and interconnect resources as servi ces offered by cloud providers. 
+This course provides the students with the the oretical foundations of the cloud computing as well as with hands -on experience in using various cloud 
+technologies. Topics covered are related to the types of cloud services, cloud infrastructure, distributed storage models, an d programming models offered  as 
+general services and also developed for Big Data. Topics will also include underlying technologies, such as virtualization.  
+PREREQUISITES: CSCI 2141.03, CSCI 3120.03, and CSCI 3171.03  
+ 
+ 
+CSCI 4146 The Process of Data Science  
+CREDIT HOURS: 3  
+The advent of low -cost storage and processing power coupled with ever increasing amounts of "born digital" data has created the new field of da ta science. 
+The ability to achieve a specific goal or answer a business question by crunching through very large and complex  databases is becoming a competitive 
+advantage for businesses and leads to new discoveries in science and medicine. This course is an overview of the different pr ocesses that make up a data 
+science project. While other fields concentrate on finding previou sly unknown knowledge or searchingfor a specific pattern, data science focuses on 
+answering deep questions and making the conclusions accessible to the rest of the organization. This course requires the impl ementation of software and 
+experimental design in  order to complete the assignments.  
+PREREQUISITES: CSCI 3130.03 and CSCI 3151.03  
+ 
+ 
+CSCI 4147 The Web of Open Linked Data  
+CREDIT HOURS: 3  
+The Web of Linked Data (WLD) is a major step towards making abstractions represented in data into something that can b e meaningfully manipulated by 
+computing machines. This experiential -learning project -based course introduces models and technologies for representing, aggregating, and machine 
+reasoning about data using WWW standards (e.g., XML, RDF, OWL, SPARQL, RIF). The  course prepares students to build applications and services for 
+open government, eCommerce, OpenStreetMap, etc. The course also explores key issues in the development of the future of linke d data.  
+PREREQUISITES: CSCI 1170.03  
+ 
+ 
+CSCI 4148 Applied Research in Health Data Science  
+CREDIT HOURS: 3  
+This course is an introduction to the application of data science methods to health data within interdisciplinary research co ntexts. Students will be introduced 
+to the main types of health data and their principal ana lysis methods while developing key research skills specific to effectively working at the intersection of 
+medicine and computer science. This will encompass developing technical skills in the robust/reproducible analysis of data fr om medical databases, 
+radiological imaging, electronic medical records, and physiological time -series data. Students will also gain specific training in developing interdisciplinary 
+health data science research proposals including key considerations such as research ethics, data l egislation, knowledge translation, and effective 
+collaboration.  
+PREREQUISITES: CSCI 2110 and (STAT 2060 or CSCI 2360)  
+ 
+ 
+CSCI 4152 Natural Language Processing  
+CREDIT HOURS: 3  
+This course presents strategies and techniques for natural language understanding by machines. The course will cover a selection of topics taken from the 
+following three areas: parsing techniques used to represent sentence structure and discover ambiguities, the representation o f word meanings and how 
+sentence meaning can be derived fro m word meanings, and the application of context and world knowledge to the interpretation of language.  
+PREREQUISITES: CSCI 3151.03  
+ 
+ 
+CSCI 4155 Machine Learning  
+CREDIT HOURS: 3  
+This course focuses on the theory of learning machines, which are important techniques underlying data mining and many AI applications. The topics include 
+supervised learning, in particular maximum likelihood estimation in stochastic model and probabilistic reasoning, ubiquitous learning machines such as 
+support vector m achines and deep neural networks; unsupervised learning which includes generative models, expectation maximization, and Boltz mann 
+machines; and reinforcement learning including Markov decision processes and temporal difference learning. The course include s an introduction to a high 
+level modeling language such as MATLAB or Python and refresher on probability theory and matrix algebra.  
+PREREQUISITES: CSCI 3151.03  
+EXCLUSIONS: CSCI 4150.03   
+923  
+ 
+CSCI 4156 Reinforcement Learning with Gaming Applications  
+CREDIT HOUR S: 3 
+This course presents the theory and applications of reinforcement learning by asking: How do we teach computers to play games ? Two basic themes will be 
+developed: 1) Markov decision processes, dynamic programming and Monte Carlo Tree search, culminati ng in the development of the Temporal difference 
+method. 2) Episodic policy search through evolutionary computation. Case studies will consider results from games of complete  information (e.g. Back -
+gammon, Chess, Go) and incomplete information (e.g. FPS, S tarCraft, Dota2, Poker). The role of self -play will also be considered.  
+PREREQUISITES: CSCI 3151.03 or CSCI 3154.03  
+ 
+ 
+CSCI 4160 Topics in Computer Graphics  
+CREDIT HOURS: 3  
+This course presents the theory and mathematical algorithms required to develop and  build a graphics package. Emphasis is on either two or three dimensions 
+and the transformations and manipulations necessary to lead to animation. The design platform and language are left as a stud ent choice to ensure immediate 
+familiarity and future deve lopment advantages.  
+PREREQUISITES: CSCI 3161  
+ 
+ 
+CSCI 4163 Human -Computer Interaction  
+CREDIT HOURS: 3  
+Human -computer interaction deals with human -computer communication and how to facilitate it. This course begins with a discussion of information 
+processing characteristics important to human -computer interaction and formal models of human -computer interaction. Subsequent topics include dialogue 
+techniques, response times and display rates, information presentation, interaction devices, computer training, help  systems, computer supported co -operative 
+work, information search and visualization, hypermedia, and the world wide web.  
+PREREQUISITES: CSCI 3160.03  
+ 
+ 
+CSCI 4166 Visualization  
+CREDIT HOURS: 3  
+This course focuses on graphical techniques for data visualizati on that assist in the extraction of meaning from datasets. This involves the design and 
+development of efficient tools for the exploration of large and often complex information domains. Applications of visualizat ion are broad, including 
+computer science, geography, the social sciences, mathematics, science and medicine, as well as architecture and design. The course will cover all aspects of 
+visualization including fundamental concepts, algorithms, data structures and the role of human perception.  
+PREREQUI SITES: CSCI 3161.03 or CSCI 4160.03  
+ 
+ 
+CSCI 4167 Topics in Computer Animation  
+CREDIT HOURS: 3  
+The course introduces students to fundamental and advanced techniques and algorithms in Computer Animation. Topics include in terpolation based and 
+kinematic techniques, physically based modelling, motion capture, and character animation.  
+PREREQUISITES: CSCI 3161.03  
+ 
+ 
+CSCI 4168 Game Design and Development  
+CREDIT HOURS: 3  
+This course covers the fundamentals of digital game design with an emphasis on te am-based development. In this course students will produce a significant 
+game using techniques and principles derived from established state -of-the-art industry practices. Topics include an examination of game design theories, 
+programming architectures, au dio-visual design and game production.  
+PREREQUISITES: CSCI 2110.03 and CSCI 3130.03  
+ 
+ 
+CSCI 4169 Usable Security and Privacy  
+CREDIT HOURS: 3  
+Human factors play an important role in the effectiveness of security and privacy solutions, and it is important for  security and privacy experts to have an 
+understanding of how people will interact with the systems they develop. This course is designed to introduce students to a v ariety of usability and user 
+interface problems related to privacy and security, and to gi ve them experience in designing studies aimed at helping to evaluate usability issues in security 
+and privacy systems. Topics include human threat identification, security warning design, location privacy, privacy policies,  web browser privacy and 
+security , phishing, passwords, and secure communication.  
+PREREQUISITES: CSCI 3160.03  
+ 
+  
+924 CSCI 4171 Networks and Communication  
+CREDIT HOURS: 3  
+The primary objective of this course is to give the student a comprehensive understanding and specialized knowledge in the field of computer networks and 
+communications. The course teaches through a systems approach to networks by examining the hardware and protocol components t hat comprise a network. 
+The course also examines the interactions and interdependencies between protocols. Topics covered in this course include network principles and concepts, 
+transmission principles, network architecture, routers and routing protocols, direct link networks, wireless networks, intern etworking, and emerging network 
+technologies.  
+PREREQUISITES: (CSCI 2121.03 or CSCI 2122.03) and CSCI 3171.03  
+ 
+ 
+CSCI 4174 Network Security  
+CREDIT HOURS: 3  
+Security stands out as a critical issue in the design and deployment of information systems in general, and networks in parti cular. This course will de al with 
+the design of secure information systems with emphasis on secure networking and secure information transfer. It will also inc lude topical and emerging areas 
+in security such as the establishment of an organization -wide security plan and bio -metric identification systems.  
+PREREQUISITES: CSCI 3171.03  
+ 
+ 
+CSCI 4176 Mobile Computing  
+CREDIT HOURS: 3  
+This course covers the principles of mobile computing and the concepts and techniques underlying the design and development o f mobile computing 
+applications. M obile computing is discussed from technological, application, and user perspectives. Topics include mobile and wireless commu nication 
+technologies, development environments, application design for resource limited and failure -prone environments, user inter face issues in the mobile 
+computing setting, and the future of mobile computing.  
+COREQUISITES: CSCI 3171.03 or CSCI3172.03 may be taken as a co -requisite  
+PREREQUISITES: CSCI 3130.03 and (CSCI 3171.03 or CSCI3172.03)  
+ 
+ 
+CSCI 4177 Advanced Web Services  
+CREDIT  HOURS: 3  
+This course provides a hands -on learning environment for advanced web development techniques, such as HTML5 APIs for the creation of dynamic web 
+graphics as well as adding offline functionality to web applications, and server -side APIs for extend ing the back -end functionality of web applications. 
+Advanced security, performance monitoring, and testing approaches are also covered to facilitated the creation of efficient a nd secure web applications. 
+Finally, this hands -on course also highlights the i mportance of ethical web development principles and documentation.  
+PREREQUISITES: CSCI 3172.03  
+ 
+ 
+CSCI 4178 Cyber Security & Defense  
+CREDIT HOURS: 3  
+This course will discuss the concepts behind cyber security and cyber defenses. Students will be introduced  to the tools and systems used in vulnerability 
+analysis, penetration testing and other defensive systems. From security agencies to businesses, hackers are an inescapable r eality of the cyber world. The goal 
+of this course is to understand the cyber -attac ks so that you are able to defend yourself against them.  
+PREREQUISITES: CSCI 2112 and CSCI 3171  
+ 
+ 
+CSCI 4180 Introduction to Computational Biology and Bioinformatics  
+CREDIT HOURS: 3  
+This course introduces biology -related applications of computer science. No  background in biology is assumed. The topics covered include the following: 
+introductory molecular biology and evolution, genomics, similarity and homology, multiple sequence alignments, phylogenetics,  structural bioinformatics and 
+gene expression. The em phasis is on the applications of computer science to biology.  
+ 
+ 
+CSCI 4181 Bioinformatics Algorithms  
+CREDIT HOURS: 3  
+The discipline of bioinformatics applies sophisticated computational and statistical techniques to problems in the biological  domain. This c ourse will focus on 
+a few biosequence -related challenges in depth, examining the complexity and efficiency of different approaches, the relationship between statis tical optimality 
+and biological reality, and the consistency (or lack thereof) among methods.  
+PREREQUISITES: Permission by instructor  
+ 
+ 
+CSCI 4190 Special Topics in Computer Science   
+925 CREDIT HOURS: 3  
+This course examines topics determined by the interests of the students and the instructor.  
+PREREQUISITES: Permission of the instructor  
+ 
+ 
+CSCI 4191 Application Development Project  
+CREDIT HOURS: 3  
+This is a project -oriented course for students to participate in distributed software development projects, such as the Undergraduate Capstone Open Source 
+Project (www.ucosp.ca) initiative. Students work as p art of a development team on new or existing projects for real -world applications. In this course students 
+learn how to work in large development teams, which may be geographically distributed. Students implement portions of a large  software project and gi ve a 
+public presentation on their work. Students work under supervision of a faculty member. A specific development project must b e approved by the 
+undergraduate chair in consultation with the instructor.  
+PREREQUISITES: (CSCI 3120.03, CSCI 3130.03 and CSCI  3171.03) or INFX 4600.03  
+ 
+ 
+CSCI 4192 Directed Studies  
+CREDIT HOURS: 3  
+This course is a study of specific academic subject area not covered in another course offered at Dalhousie University, under  close supervision of a faculty 
+member. It typically consist s of predetermined readings, discussions with the instructor, and a term paper summarizing the studied material. A specific 
+directed studies course must be approved by the undergraduate chair in consultation with the instructor.  
+PREREQUISITES: CSCI 3110.03 , CSCI 3120.03, CSCI 3130.03, (CSCI 3136.03 or CSCI 3137.03), CSCI 3171.03  
+ 
+ 
+CSCI 4193 Technology Innovation  
+CREDIT HOURS: 3  
+The Technology Innovation combines elements of design thinking, rapid prototyping, and software development that can be used to val idate ideas that could 
+yield new technologies and new business models. Over the semester students will work in interdisciplinary teams to address a Design Challenge posed by 
+industry. The ideas advanced by teams will reflect the powerful synergies that exi st between software development, design thinking and entrepreneurship.  
+PREREQUISITES: CSCI 2100.03, CSCI 2110.03, (CSCI 2132.03 or CSCI 2134.03), and CSCI 2141.03  
+ 
+ 
+CSCI 4194 Special Topics in Computer Science  
+CREDIT HOURS: 3  
+This course examines topics determined by the interests of the students and the instructor.  
+ 
+ 
+CSCI 4195 Special Topics in Computer Science  
+CREDIT HOURS: 3  
+This course examines topics determined by the interests of the students and the instructor.  
+ 
+ 
+CSCI 4196 Special Topics in Computer Science  
+CREDIT HOURS: 3  
+This course examines topics determined by the interests of the students and the instructor.  
+ 
+ 
+CSCI 4260 Persuasive Computing Design  
+CREDIT HOURS: 3  
+Persuasion Technologies (PTs) are interactive systems designed to motivate  people to change their behaviours without using coercion or deceit. This course 
+will explore the fundamental theory, principle, and practice in the design, implementation, and evaluation of persuasive syst ems. Topics include theories of 
+persuasion and beh aviour change, persuasive strategies, application of the theories and strategies in persuasive interface/system design, persu asive system 
+evaluation methods, approaches for personalizing and adapting persuasive systems, privacy and ethical issues of persua sive systems. Students will get hands -
+on experience on persuasive user interface design and evaluation, user studies, behaviour modelling, persuasive affordances o f various technological 
+platforms (e.g., mobile, social media, games), and ethics of PT throu gh case analysis, critics, real -world project, project report, and project presentation.  
+PREREQUISITES: CSCI 3160.03  
+ 
+ 
+CSCI 4261 Introduction to Computer Vision  
+CREDIT HOURS: 3  
+This course introduces students to the fundamental concepts of computer vision  providing an overview of the current methodologies and techniques. Students  
+926 will explore the theory behind fundamental processing tasks, including segmentation, feature extraction, image classification , and object detection, using a 
+mathematical framework  to analyze images as two -dimensional signals. By the end of this course, students will be able to apply the basic principles and tools 
+used in computer vision to solve practical problems in scientific and commercial settings.  
+PREREQUISITES: (CSCI 1300 or MATH 1000), CSCI 2110, and MATH 1030  
+ 
+ 
+CSCI 4262 Augmented and Virtual Reality  
+CREDIT HOURS: 3  
+This course will explore augmented and virtual reality from both theoretical and practical lenses. Specific topics will depen d in part on class interests and 
+guest lecture content but will include some or all the following: mixed reality, collaboration in AR/VR, immersive analytics, na vigation and locomotion in 
+AR/VR, interaction in AR/VR, platforms and toolkits for AR/VR, narrative and gaming, public installation s; spatial analysis and related theory, cognitive and 
+psychological aspects including immersion, presence, embodiment, and spatial mental models.  
+PREREQUISITES: CSCI 2134.03, CSCI 2110.03 and CSCI 3160.03  
+ 
+ 
+CSCI 4691 Advanced Project  
+CREDIT HOURS: 3  
+Students take a leadership role in project teams to solve a real -world information technology problem. Team members are drawn from all years of study. The 
+project gives students an opportunity to develop their leadership, management, and professional skill s.  
+PREREQUISITES: CSCI 3130.03, CSCI 3691.03, MGMT 2303.03  
+CROSSLISTED: INFX 4601  
+FORMATS: Lecture  
+ 
+ 
+CSCI 8781 Co -op Work Term 1  
+CREDIT HOURS: 0  
+This course is the first work term for students in the Co -operative Education Program. Pass/fail grading appl ies to this course.  
+COREQUISITES: CSCI 8791.00  
+PREREQUISITES: CSCI 8890.00 and CSCI 8791.00  
+ 
+ 
+CSCI 8782 Co -op Work Term 2  
+CREDIT HOURS: 0  
+This course is the second work term for students in the Co -operative Education Program. Pass/fail grading applies to this course.  
+COREQUISITES: CSCI 8792.00  
+PREREQUISITES: CSCI 8781.00, CSCI 8792.00  
+ 
+ 
+CSCI 8783 Co -op Work Term 3  
+CREDIT HOURS: 0  
+This course is the third work term for students in the Co -operative Education Program. Pass/fail grading applies to this course .  
+COREQUISITES: CSCI 8793.00  
+PREREQUISITES: CSCI 8782.00, CSCI 8793.00  
+ 
+ 
+CSCI 8784 Co -op Work Term 4  
+CREDIT HOURS: 0  
+This course is the optional fourth work term for students in the Co -operative Education Program. Pass/fail grading applies to this course.   
+PREREQUISITES: CSCI 8783.00, CSCI 8793.01  
+ 
+ 
+CSCI 8791 Co -op I  
+CREDIT HOURS: 1  
+This course is the first work term academic component for students in the Co -operative Education Program.  
+COREQUISITES: CSCI 8781.00  
+PREREQUISITES: CSCI 8890.00, CSCI 8781.0 0 
+ 
+ 
+CSCI 8792 Co -op II  
+927 CREDIT HOURS: 1  
+This course is the second work term academic component for students in the Co -operative Education Program.  
+COREQUISITES: CSCI 8782.00  
+PREREQUISITES: CSCI 8782.00, Minimum of a B - in CSCI 8791.01  
+ 
+ 
+CSCI 8793 Co -op III  
+CREDIT HOURS: 1  
+This course is the third work term academic component for students in the Co -operative Education Program.  
+COREQUISITES: CSCI 8783.00  
+PREREQUISITES: CSCI 8783.00, Minimum of B - in CSCI 8792.01  
+ 
+ 
+CSCI 8873 Honours Seminar  
+CREDIT HOURS: 3  
+This is a course t hrough which students complete their Honours Thesis requirements. Honours students in Computer Science must register for this  course or 
+CSCI 8871/72. In this course, students complete their thesis research, write their honours theses, and give public prese ntations of their work. In a normal 
+course sequence, the student should have taken CSCI 4192 under the direction of their thesis supervisor. During this course, the student should have acquired 
+the necessary background knowledge for their thesis research a nd formulated a research plan for their thesis work. Deviations from this sequence are possible.  
+PREREQUISITES: Permission of the Honours Coordinator  
+ 
+ 
+CSCI 8874 Research Project 1  
+CREDIT HOURS: 3  
+Students carry out research and related activities under th e supervision of a faculty member. Work done in this course is intended to prepare and contribute to 
+the research to be done when the students enters the Master of Computer Science program. This is a PASS/FAIL course.  
+CALENDAR NOTES: This course may not b e used to satisfy a CS elective requirement for any of the computer science degrees.  
+PREREQUISITES: CSCI 3101.03, CSCI 3110.03, CSCI 3120.03, CSCI 3130.03, (CSCI 3136.03 or CSCI 3137.03), CSCI 3171.03, a minimu m GPA of 3.0, 
+permission of instructor, and pe rmission of the Faculty of Computer Science.  
+ 
+ 
+CSCI 8875 Research Project 2  
+CREDIT HOURS: 3  
+Students carry out research and related activities under the supervision of a faculty member. Work done in this course is int ended to prepare and contribute to 
+the research to be done when the students enters the Master of Computer Science program. This is a PASS/FAIL course.  
+CALENDAR NOTES: This course may not be used to satisfy a CS elective requirement for any of the computer science degrees. CSC I 8874.03 may be  taken 
+at the same time as CSCI 8875.03.  
+PREREQUISITES: CSCI 3101.03, CSCI 3110.03, CSCI 3120.03, CSCI 3130.03, (CSCI 3136.03 or CSCI 3137.03), CSCI 3171.03, CSCI 887 4.03, a 
+minimum GPA of 3.0, permission of instructor, and permission of the Faculty of Com puter Science.  
+ 
+ 
+CSCI 8890 Co -op Seminar  
+CREDIT HOURS: 0  
+Students in the Bachelor of Computer Science Co -operative Education Program must register for this course, which orients students to the co -op system. 
+Pass/fail grading applies to this course.  
+PRERE QUISITES: Permission of the Faculty of Computer Science  
+ 
+ 
+CSCI 8891 Co -op Work Term I  
+CREDIT HOURS: 0  
+This course is the first work term for students in the Bachelor of Computer Science Co -operative Education Program. Pass/fail grading applies to this cour se. 
+PREREQUISITES: CSCI 8890.00  
+ 
+ 
+CSCI 8892 Co -op Work Term 2  
+CREDIT HOURS: 0  
+This course is the second work term for students in the Bachelor of Computer Science Co -operative Education Program. Pass/fail grading applies to this 
+course.  
+PREREQUISITES: CSCI  8891.00  
+ 
+  
+928 CSCI 8893 Co -op Work Term 3  
+CREDIT HOURS: 0  
+This course is the third work term for students in t he Bachelor of Computer Science Co -operative Education Program. Pass/fail grading applies to this course.  
+PREREQUISITES: CSCI 8892.00  
+ 
+ 
+Faculty of Engineering  
+Location:  
+Sexton Campus  
+5217 Morris Street  
+4th Floor, Room 401  
+PO BOX 15000  
+Halifax NS  
+B3J1B6  
+ 
+Phone Number:    (902) 494 -6217 
+Fax Number:        (902) 492 -0011 
+Email Address:     deaneng@dal. ca 
+Website:                www.dal.ca/engineering  
+ 
+Engineering as a Profession  
+Engineering is an important profession. Virtually all aspects of modern life are involved with this fascinating discipline. E ngineering 
+education at Dalhousie is demanding, because the engineering profession is demanding. Society expects its technical problem solvers 
+to offer answers to some of the most difficult questions around, questions related to the environment, productivity, informat ion 
+technology, communica tions, transportation, and more. In general, the engineering enterprise contributes not only to human welfare, 
+but also to the sustainable development of our resources. Engineering education provides great rewards for the engineer of th e future. 
+Specifical ly, there is the personal satisfaction of following a career where one ’s personal expertise can benefit fellow humans and 
+contribute to the making of a better world.  
+The Faculty of Engineering at Dalhousie University prepares its students with the problem -solving skills needed for lifelong 
+exploration in a field that answers some of today ’s most pressing concerns. The Faculty of Engineering has an excellent tradition of 
+providing engineering education for students in the Atlantic Provinces that started in 1 907 with the founding of the Nova Scotia 
+Technical College. Our graduates occupy many important positions throughout Canada and in many other countries.  
+The Faculty of Engineering offers undergraduate curricula leading to the degree of Bachelor of Engineer ing in the following 
+disciplines:  
+• Chemical Engineering  
+• Civil Engineering  
+• Electrical Engineering  
+• Environmental Engineering  
+• Industrial Engineering  
+• Materials Engineering  
+• Mechanical Engineering  
+• Mineral Resource Engineering  
+The Faculty also offers a Bachelor of Applied Science in Food Science (admission suspended, pending review), and post -graduate 
+studies at the master ’s and doctoral level.  
+For students who are eligible, the Faculty of Engineering offers a Bachelor of Engineering Co -operative Educati on program that 
+integrates academic study with university approved industrial experience. Graduation from this program requires satisfactory 
+performance in both areas. The schedule of study and work terms varies according to the discipline, details of whic h are outlined in 
+Section E of the Engineering curricula in this calendar.  
+The co -operative education system requires students to alternate periods of study with periods of university approved, full -time, paid 
+employment. The period of employment is called  a work term and is normally four months (16 weeks) in length. Some programs 
+combine two or more four month work terms. Work terms have academic requirements that must be completed in addition to the 
+requirements of the employer.  

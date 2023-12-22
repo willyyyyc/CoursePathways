@@ -1,0 +1,24 @@
+CSCI 1110.03: Introduction to Computer Science
+CSCI 1120.03: Introduction to Computer Systems
+CSCI 1170.03: Introduction to Web Design and Development
+CSCI 1315.03:  Discrete Mathematics for Computer Science
+CSCI 1800.03: Society and Technology before Automation
+CSCI 1801.03: Society and Technology in the Automation Age
+
+CSCI 2100.03: Communication Skills: Oral and Written
+CSCI 2110.03: Data Structures and Algorithms
+CSCI 2115.03: Theory of Computer Science
+CSCI 2122.03: Systems Programming
+CSCI 2134.03: Software Development
+CSCI 2141.03: Introduction to Database Systems
+
+CSCI 3101.03: Social, Ethical and Professional Issues in Computer Science
+CSCI 3110.03: Design and Analysis of Algorithms I
+CSCI 3120.03: Operating Systems
+CSCI 3130.03: Introduction to Software Engineering
+CSCI 3137.03: Principles of Programming Languages
+CSCI 3171.03: Network Computing
+
+CSCI 1300.03: Calculus in Computer Science or MATH 1000.03: Differential and Integral Calculus I
+MATH 1030.03: Matrix Theory and Linear Alge bra I
+STAT 2060.03: Introduction to Probability and Statistics I
