@@ -6,3 +6,6 @@ class Course:
 
     def set_prerequisites(self, course_prerequisites):
         self.course_prerequisites = course_prerequisites
+
+    def get_course(self):
+        return self.course_code + " " + self.course_name
