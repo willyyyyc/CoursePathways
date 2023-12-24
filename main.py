@@ -1,6 +1,7 @@
 import re
 from FileGenerator import FileGenerator
 from Course import Course
+from Graph import Graph
 
 
 def get_page_range():
@@ -61,5 +62,9 @@ with open('files/faculty_cs.txt', 'r') as f:
             elif x:
                 courses[len(courses)-1].set_prerequisites(line.rstrip())
 
+graph = Graph()
 for course in courses:
-    print(course.course_code, course.course_name, course.course_prerequisites)
+    graph.add_edge(course.get_info(), course.get_prerequisites())
+
+print(graph.get_size())
+print(graph)
