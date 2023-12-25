@@ -11,6 +11,6 @@ class Graph:
     def get_size(self):
         return self.num_of_nodes
 
-    def __str__(self):
+    def print_graph(self):
         for vertex in self.adjacency_list.keys():
-            print("course: " + vertex + " prerequisites: " + str(self.adjacency_list[vertex]))
+            print("Course: " + str(vertex) + "\nPrerequisites: " + str(self.adjacency_list[vertex]) + "\n")

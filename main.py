@@ -1,6 +1,7 @@
 import re
 from FileGenerator import FileGenerator
 from Course import Course
+from CourseTitle import CourseTitle
 from Graph import Graph
 
 
@@ -57,14 +58,18 @@ with open('files/faculty_cs.txt', 'r') as f:
                 title = list(line.split())
                 s = ' '
                 name = s.join(title[2:])
-                code = title[1]
-                courses.append(Course(code, name))
+                code = s.join(title[:2])
+                new_title = CourseTitle(code, name)
+                new_course = Course(new_title)
+                courses.append(new_course)
             elif x:
-                courses[len(courses)-1].set_prerequisites(line.rstrip())
+                str_prereq = line.rstrip()
+                # note: figure out how to split into course_title objects
+                courses[len(courses)-1].set_prerequisites(str_prereq)
 
 graph = Graph()
 for course in courses:
     graph.add_edge(course.get_info(), course.get_prerequisites())
 
 print(graph.get_size())
-print(graph)
+graph.print_graph()
