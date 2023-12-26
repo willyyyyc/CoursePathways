@@ -24,12 +24,7 @@ with open('test.txt', 'r') as f:
         if 'None' in l:
             print(l)
         else:
-            for word in l:
-                m = faculty.match(word)
-                n = code.match(word)
-                o = or_re.match(word)
-                a = and_re.match(word)
-                l = left_brace.match(word)
-                r = right_brace.match(word)
-                if m or n or o or a or l or r:
-                    print(word)
+            patterns = [faculty, code, or_re, and_re, left_brace, right_brace]
+            matches = [word for word in l if any(pattern.match(word) for pattern in patterns)]
+            for match in matches:
+                print(match)
