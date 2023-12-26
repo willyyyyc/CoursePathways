@@ -1,74 +1,10 @@
-912 CSCI 1105.03:   Introduction to Computer Programming
-CSCI 1107.03: Social Computing
-CSCI 1108.03: Introduction to Experimental Robotics
-CSCI 1109.03: Practical Data Science
-CSCI 1200.03: Introduction to Computing for Non -Majors
-CSCI 1206.03: Introduction to Website Creation
-CSCI 2201.03: Information Security
-CSCI 2202.03: Computer Modeling for Scientists
-CSCI 2203.03: Data Science for Everyone
-CSCI 3141.03: Foundations of Da ta Science using R
-Course Descriptions
-CSCI 1105 Introduction to Computer Programming
-CREDIT HOURS: 3
-This course provides a general introduction to computer programming. The main focus is on programming skills and how to apply  these skills in solving a
-variety of problems. Procedural programming concepts are stressed.
-CALENDAR NOTES: Students who complete CSCI 1110 with a grade of C or greater BEFORE completing CSCI 1105 will not receive cre dit for taking
-CSCI 1105.
-EXCLUSIONS: INFX 1600X/Y.18,  CSCI 1100.03, grade C or higher in CSCI 1110.03
-
-
-CSCI 1107 Social Computing
-CREDIT HOURS: 3
-A hands -on course on technologies and the underlying infrastructure for social computing, including digital collaboration media, soci al networks and
-visualization , and their social impact. Students will use various applications, such as Twitter, YouTube, and wikis to examine their funct ionalities, and explore
-infrastructure technologies including databases, computer networks and Web -servers that facilitate their ex ecution.
-
-
-CSCI 1108 Introduction to Experimental Robotics
-CREDIT HOURS: 3
-This course is an introduction to computing in the real world, experimental evaluation, and basic team work and project manag ement. These themes are
-explored through the study of th e challenges and techniques for modeling, designing, and programming robotic systems to perfom complex tasks in a
-changing and uncertain environment.
-FORMATS: Lecture
-
-
-CSCI 1109 Practical Data Science
-CREDIT HOURS: 3
-This course will provide students wit h a practical overview of the world of data science research. Through hands -on use of Python ’s data science libraries and
-publicly open datasets students will be exposed to the research methods and cutting -edge analyses used to effectively manipulate, proc ess and investigate data
-from diverse disciplines.
-EXCLUSIONS: CSCI 2203.03
-
-
-CSCI 1110 Introduction to Computer Science
-CREDIT HOURS: 3
-This course provides a general introduction to computer science and the hardware and software of computers. The main f ocus is on programming skills and
-how to apply these skills in solving a variety of problems. Algorithmic concepts, linear data structures are emphasized.
-CALENDAR NOTES: This course assumes that the student has some programming experience.
-EXCLUSIONS: CSC I 1101.03
-FORMATS: Lecture
-CSCI 4191 Application Development Project
-CREDIT HOURS: 3
-This is a project -oriented course for students to participate in distributed software development projects, such as the Undergraduate Capstone Open Source
-Project (www.ucosp.ca) initiative. Students work as p art of a development team on new or existing projects for real -world applications. In this course students
-learn how to work in large development teams, which may be geographically distributed. Students implement portions of a large  software project and gi ve a
-public presentation on their work. Students work under supervision of a faculty member. A specific development project must b e approved by the
-undergraduate chair in consultation with the instructor.
-PREREQUISITES: (CSCI 3120.03, CSCI 3130.03 and CSCI  3171.03) or INFX 4600.03
-
-
-CSCI 4192 Directed Studies
-CREDIT HOURS: 3
-This course is a study of specific academic subject area not covered in another course offered at Dalhousie University, under  close supervision of a faculty
-member. It typically consist s of predetermined readings, discussions with the instructor, and a term paper summarizing the studied material. A specific
-directed studies course must be approved by the undergraduate chair in consultation with the instructor.
-PREREQUISITES: CSCI 3110.03 , CSCI 3120.03, CSCI 3130.03, (CSCI 3136.03 or CSCI 3137.03), CSCI 3171.03
-
-
-CSCI 4193 Technology Innovation
-CREDIT HOURS: 3
-The Technology Innovation combines elements of design thinking, rapid prototyping, and software development that can be used to val idate ideas that could
-yield new technologies and new business models. Over the semester students will work in interdisciplinary teams to address a Design Challenge posed by
-industry. The ideas advanced by teams will reflect the powerful synergies that exi st between software development, design thinking and entrepreneurship.
-PREREQUISITES: CSCI 2100.03, CSCI 2110.03, (CSCI 2132.03 or CSCI 2134.03), and CSCI 2141.03
+PREREQUISITES: Nova Scotia Advanced Mathematics 441 or equivalent
+PREREQUISITES: Two of (CSCI 1800.03 or ASSC 1800.03), (CSCI 1801.03 or  ASSC 1801.03), and CSCI 1900.03
+PREREQUISITES: CSCI 1101.03 or CSCI 1110.03
+PREREQUISITES: CSCI 1315 or CSCI 2112 or MATH 2112
+PREREQUISITES: (CSCI 1101.03 or CSCI 1110.03) and CSCI 1120.03
+PREREQUISITES: (CSCI 1206.03 or CSCI 1170.03 or INFX 1606.03) and CSCI 214 1.03
+PREREQUISITES: Students must have successfully completed a minimum of 3.0 credit hours in Math at the 1 000 level.
+None
+PREREQUISITES: (CSCI 1170.03 or CSCI 1206.03 or INFX 1606.03) and (CSCI 1100.03 or CSCI 1101.03 or CSCI 1105.03 or CSCI 1110.03 )
+PREREQUISITES: CSCI 2110.03 and CSCI 2115.03
