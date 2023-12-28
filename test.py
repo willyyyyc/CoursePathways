@@ -28,6 +28,7 @@ with open('test.txt', 'r') as f:
 
         broken_code_0 = re.compile('^[0-9]{3}$')
         broken_code_1 = re.compile('^[0-9]')
+        broken_code_2 = re.compile('^CSCI[0-9]{4}')
         #iter_l = iter(l)
         #l = [i + next(iter_l, '') for i in iter_l if broken_code.match(i)]
 
@@ -52,6 +53,22 @@ with open('test.txt', 'r') as f:
         while i < len(l) - 1:
             if l[i] == 'CSCi':
                 l[i] = 'CSCI'
+                break
+            i += 1
+
+        i = 0
+        while i < len(l) - 1:
+            if broken_code_2.match(l[i]):
+                l.insert(i + 1, l[i].replace('CSCI', ""))
+                l[i] = 'CSCI'
+                break
+            i += 1
+
+        i = 0
+        while i < len(l) - 1:
+            if l[i] == 'MA':
+                l[i] = l[i] + l[i + 1]
+                l.pop(i + 1)
                 break
             i += 1
 

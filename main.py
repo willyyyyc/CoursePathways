@@ -74,3 +74,5 @@ for course in courses:
 
 #print(graph.get_size())
 #graph.print_graph()
+
+#note: when getting prerequisites, need to make sure that it checks for the case where text flows to next line
