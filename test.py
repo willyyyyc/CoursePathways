@@ -20,7 +20,7 @@ with open('test.txt', 'r') as f:
         l = line.rsplit()
         bracesplit = re.compile('(\\()|(\\))').split
         l = [part for word in l for part in bracesplit(word) if part]
-        print('->', l)
+        #print('->', l)
 
         #x = [word for word in l if word != ('PREREQUISITES:')]
         l = remove_item(l, 'PREREQUISITES:')
@@ -40,6 +40,20 @@ with open('test.txt', 'r') as f:
                 break
             i += 1
 
+        i = 0
+        while i < len(l) - 1:
+            if l[i] == 'CSC':
+                l[i] = l[i] + l[i + 1]
+                l.pop(i + 1)
+                break
+            i += 1
+
+        i = 0
+        while i < len(l) - 1:
+            if l[i] == 'CSCi':
+                l[i] = 'CSCI'
+                break
+            i += 1
 
         patterns = [none, faculty, code, or_re, and_re, left_brace, right_brace]
         matches = [word for word in l if any(pattern.match(word) for pattern in patterns)]

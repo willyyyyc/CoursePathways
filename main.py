@@ -70,6 +70,7 @@ with open('files/faculty_cs.txt', 'r') as f:
 graph = Graph()
 for course in courses:
     graph.add_edge(course.get_info(), course.get_prerequisites())
+    print(course.get_prerequisites())
 
-print(graph.get_size())
-graph.print_graph()
+#print(graph.get_size())
+#graph.print_graph()
