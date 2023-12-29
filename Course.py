@@ -1,3 +1,4 @@
+from CourseTitle import CourseTitle
 class Course:
     """This class describes a course object
 
@@ -19,7 +20,7 @@ class Course:
         """Constructor method.
 
         Args:
-            course_title (CourseTitle): course code and name
+            course_title (CourseTitle): instance of CourseTitle, containing course code and name
             course_prerequisites (None): list of CourseTitle objects set to None
         """
         self.course_title = course_title

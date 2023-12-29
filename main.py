@@ -76,3 +76,4 @@ for course in courses:
 #graph.print_graph()
 
 #note: when getting prerequisites, need to make sure that it checks for the case where text flows to next line
+# extra field in course called special requirements? or additional? and have it be everything leftover after creating prereq list
