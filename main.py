@@ -1,8 +1,10 @@
 import re
+import os
 from FileGenerator import FileGenerator
 from Course import Course
 from CourseTitle import CourseTitle
 from Graph import Graph
+from TokenStreamBuilder import TokenStreamBuilder
 
 
 def get_page_range():
@@ -42,6 +44,7 @@ file_generator.file_from_page_range(page_range[0], page_range[1])
 courses = []
 codes = []
 
+
 heading = re.compile('Course Descriptions')
 csci = re.compile('^CSCI\\s\\d{4}\\s[a-zA-Z]+')
 prereq = re.compile('^PREREQUISITES:')
@@ -64,13 +67,23 @@ with open('files/faculty_cs.txt', 'r') as f:
                 courses.append(new_course)
             elif x:
                 str_prereq = line.rstrip()
-                # note: figure out how to split into course_title objects
                 courses[len(courses)-1].set_prerequisites(str_prereq)
 
 graph = Graph()
 for course in courses:
     graph.add_edge(course.get_info(), course.get_prerequisites())
-    print(course.get_prerequisites())
+    #print(course.get_prerequisites())
+
+    prereq_exists = os.path.isfile('files/raw_prerequisites.txt')
+    if not prereq_exists:
+        with open('files/raw_prerequisites.txt', 'a') as prereqs:
+            try:
+                prereqs.write(course.get_prerequisites() + '\n')
+            except TypeError:
+                prereqs.write('None\n')
+
+builder = TokenStreamBuilder('files/raw_prerequisites.txt')
+builder.build_token_stream()
 
 #print(graph.get_size())
 #graph.print_graph()

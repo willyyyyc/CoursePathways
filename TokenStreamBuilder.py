@@ -77,7 +77,7 @@ class TokenStreamBuilder:
         self.file = raw_prerequisites
 
     def build_token_stream(self):
-        with open('test.txt', 'r') as f:
+        with open(self.file, 'r') as f:
             for line in f:
                 l = line.rsplit()
                 print('->', l)
