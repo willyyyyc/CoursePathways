@@ -1,95 +1,96 @@
 import re
 
-#plan:
-#break line into list of characters
-#goal: a list of course title objects to fill an adjacency list. some entries in list will themselves be lists, representing optional ('or' prerequisites)
-
-def remove_item(list, item):
-    return [i for i in list if i != item]
 
 none = re.compile('None')
 faculty = re.compile('^[A-Z]{4}$')
 code = re.compile('^[0-9]{4}')
 or_re = re.compile('or')
 and_re = re.compile('and')
-left_brace = re.compile('\(')
-right_brace = re.compile('\)')
-
-broken_line = ['PREREQUISITES:', 'CSCI', '1300', 'or', 'MATH', '1000', 'or', 'MATH', '1280', ')', 'and', '(', 'CSCI', '1105', 'or', 'CSCI', '1110', 'or', 'CSCI', '1503', 'or', 'CSCI', '2202', ')']
-
-with open('test.txt', 'r') as f:
-    for line in f:
-        l = line.rsplit()
-        bracesplit = re.compile('(\\()|(\\))').split
-        l = [part for word in l for part in bracesplit(word) if part]
-        #print('->', l)
-        print(l)
-        if l == broken_line:
-            l.insert(1, "(")
-        #x = [word for word in l if word != ('PREREQUISITES:')]
-        l = remove_item(l, 'PREREQUISITES:')
-        l = remove_item(l, ',')
+left_brace = re.compile('\\(')
+right_brace = re.compile('\\)')
 
 
-        broken_code_0 = re.compile('^\\d{3}$')
-        broken_code_1 = re.compile('^\\d')
-        broken_code_2 = re.compile('^CSCI\\d{4}')
-        broken_code_3 = re.compile('^\\d$')
-        #iter_l = iter(l)
-        #l = [i + next(iter_l, '') for i in iter_l if broken_code.match(i)]
-        print(l)
+def remove_item(list_, item):
+    return [i for i in list_ if i != item]
 
-        # Assumes one occurence
-        i = 0
-        while i < len(l) - 1:
-            if broken_code_0.match(l[i]) and broken_code_1.match(l[i + 1]):
-                l[i] = l[i] + l[i + 1]
-                l.pop(i + 1)
-                break
-            i += 1
 
-        i = 0
-        while i < len(l) - 1:
-            if l[i] == 'CSC':
-                l[i] = l[i] + l[i + 1]
-                l.pop(i + 1)
-                break
-            i += 1
+def fix_line(raw_line):
+    broken_line = ['PREREQUISITES:', 'CSCI', '1300', 'or', 'MATH', '1000', 'or', 'MATH', '1280', ')', 'and', '(',
+                   'CSCI', '1105', 'or', 'CSCI', '1110', 'or', 'CSCI', '1503', 'or', 'CSCI', '2202', ')']
+    broken_code_0 = re.compile('^\\d{3}$')
+    broken_code_1 = re.compile('^\\d')
+    broken_code_2 = re.compile('^CSCI\\d{4}')
+    broken_code_3 = re.compile('^\\d$')
 
-        i = 0
-        while i < len(l) - 1:
-            if l[i] == 'CSCi':
-                l[i] = 'CSCI'
-                break
-            i += 1
+    brace_split = re.compile('(\\()|(\\))').split
+    raw_line = [part for word in raw_line for part in brace_split(word) if part]
 
-        i = 0
-        while i < len(l) - 1:
-            if broken_code_2.match(l[i]):
-                l.insert(i + 1, l[i].replace('CSCI', ""))
-                l[i] = 'CSCI'
-                break
-            i += 1
+    if raw_line == broken_line:
+        raw_line.insert(1, "(")
+    raw_line = remove_item(raw_line, 'PREREQUISITES:')
+    raw_line = remove_item(raw_line, ',')
 
-        i = 0
-        while i < len(l) - 1:
-            if l[i] == 'MA':
-                l[i] = l[i] + l[i + 1]
-                l.pop(i + 1)
-                break
-            i += 1
+    i = 0
+    while i < len(raw_line) - 1:
+        if ((broken_code_0.match(raw_line[i]) and broken_code_1.match(raw_line[i + 1])) or raw_line[i] == 'CSC'
+                or raw_line[i] == 'MA'):
+            raw_line[i] = raw_line[i] + raw_line[i + 1]
+            raw_line.pop(i + 1)
+        elif raw_line[i] == 'CSCi':
+            raw_line[i] = 'CSCI'
+        elif broken_code_2.match(raw_line[i]):
+            raw_line.insert(i + 1, raw_line[i].replace('CSCI', ""))
+            raw_line[i] = 'CSCI'
+        elif broken_code_3.match(raw_line[i]):
+            raw_line.pop(i + 1)
+        i += 1
+    return raw_line
 
-        i = 0
-        while i < len(l) - 1:
-            if broken_code_3.match(l[i]):
-                l.pop(i + 1)
-                break
-            i += 1
 
-        patterns = [none, faculty, code, or_re, and_re, left_brace, right_brace]
-        matches = [word for word in l if any(pattern.match(word) for pattern in patterns)]
-        for match in matches:
-            l.remove(match)
 
-        print(matches)
-        print('->', l)
+
+
+
+class TokenStreamBuilder:
+    """Build a token stream for each line in a file containing prerequisites.
+
+    This class acts as a "manual scanner" -- it returns a token stream (list of tokens) that represents a parsable form
+    of the text describing the prerequisites for a single course.
+
+    Unfortunately, the process of converting valid strings into Token objects could not be automated. There were two
+    reasons:
+    First, errors in the original pdf. Missing characters that would be impossible for an algorithm to know
+    where to add BEFORE scanning. These had to be hardcoded in.
+    Second, the PdfReader object does not return a perfect text representation of the pdf. White spaces are either added
+    or neglected at random. This results in broken strings -- strings that would otherwise be valid tokens are broken in
+    such a random way that special cases had to be identified and fixed while the prerequisites were still in text form.
+
+    The TokenStreamBuilder object creates a Token object for valid strings in the input file. It creates a list of
+    tokens and returns that list as a TokenStream object. The TokenStream can then be parsed and a grammar can be used
+    to understand the prerequisite pattern it is conveying.
+
+    Attributes:
+
+    Methods:
+    """
+    def __init__(self, raw_prerequisites):
+        self.file = raw_prerequisites
+
+    def build_token_stream(self):
+        with open('test.txt', 'r') as f:
+            for line in f:
+                l = line.rsplit()
+                print('->', l)
+                l = fix_line(l)
+
+                patterns = [none, faculty, code, or_re, and_re, left_brace, right_brace]
+                matches = [word for word in l if any(pattern.match(word) for pattern in patterns)]
+                for match in matches:
+                    l.remove(match)
+
+                print(matches)
+                print('->', l, '\n')
+
+#plan:
+#break line into list of characters
+#goal: a list of course title objects to fill an adjacency list. some entries in list will themselves be lists, representing optional ('or' prerequisites)
