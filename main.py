@@ -48,7 +48,9 @@ codes = []
 heading = re.compile('Course Descriptions')
 csci = re.compile('^CSCI\\s\\d{4}\\s[a-zA-Z]+')
 prereq = re.compile('^PREREQUISITES:')
+check_uppercase = re.compile('^[a-z]')
 start_of_courses = False
+has_prereq = False
 with open('files/faculty_cs.txt', 'r') as f:
     for line in f:
         m = heading.match(line)
@@ -57,6 +59,12 @@ with open('files/faculty_cs.txt', 'r') as f:
         if start_of_courses:
             n = csci.match(line)
             x = prereq.match(line)
+
+            if has_prereq and check_uppercase.match(line):
+                wrapped_line = line.rstrip()
+                new_prereq = str_prereq + ' ' + wrapped_line
+                courses[len(courses)-1].set_prerequisites(new_prereq)
+            has_prereq = False
             if n:
                 title = list(line.split())
                 s = ' '
@@ -66,15 +74,14 @@ with open('files/faculty_cs.txt', 'r') as f:
                 new_course = Course(new_title)
                 courses.append(new_course)
             elif x:
+                has_prereq = True
                 str_prereq = line.rstrip()
                 courses[len(courses)-1].set_prerequisites(str_prereq)
 
+prereq_exists = os.path.isfile('files/raw_prerequisites.txt')
 graph = Graph()
 for course in courses:
     graph.add_edge(course.get_info(), course.get_prerequisites())
-    #print(course.get_prerequisites())
-
-    prereq_exists = os.path.isfile('files/raw_prerequisites.txt')
     if not prereq_exists:
         with open('files/raw_prerequisites.txt', 'a') as prereqs:
             try:

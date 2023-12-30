@@ -47,10 +47,6 @@ def fix_line(raw_line):
     return raw_line
 
 
-
-
-
-
 class TokenStreamBuilder:
     """Build a token stream for each line in a file containing prerequisites.
 
@@ -70,26 +66,40 @@ class TokenStreamBuilder:
     to understand the prerequisite pattern it is conveying.
 
     Attributes:
+        file (txt file): the txt file containing the lines of raw prerequisite strings
 
     Methods:
+        build_token_stream(self):
+            Builds and returns a token stream for each line in the input file
     """
     def __init__(self, raw_prerequisites):
+        """Constructor method.
+
+        Args:
+            raw_prerequisites (txt file): the txt file containing prerequisite strings to be scanned
+        """
         self.file = raw_prerequisites
 
     def build_token_stream(self):
+        """Builds and returns a token stream for each line in file.
+
+        Note: a token stream is a TokenStream object which itself is a list of tokens - each token is a Token object.
+
+        Returns:
+            list of token streams
+        """
         with open(self.file, 'r') as f:
             for line in f:
-                l = line.rsplit()
-                print('->', l)
-                l = fix_line(l)
+                raw_line = line.rsplit()
+                raw_line = fix_line(raw_line)   # Call helper function that hardcodes a correct line
 
                 patterns = [none, faculty, code, or_re, and_re, left_brace, right_brace]
-                matches = [word for word in l if any(pattern.match(word) for pattern in patterns)]
+                matches = [word for word in raw_line if any(pattern.match(word) for pattern in patterns)]
                 for match in matches:
-                    l.remove(match)
+                    raw_line.remove(match)
 
-                print(matches)
-                print('->', l, '\n')
+                #print(matches)
+                print('->', raw_line, '\n')
 
 #plan:
 #break line into list of characters

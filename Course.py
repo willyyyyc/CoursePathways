@@ -31,20 +31,23 @@ class Course:
 
         Args: course_prerequisites (CoursePrerequisites): list of CourseTitles
 
-        Returns: void
+        Returns:
+            void
         """
         self.course_prerequisites = course_prerequisites
 
     def get_info(self):
         """Return course title.
 
-        Returns: course title
+        Returns:
+            course title
         """
         return self.course_title
 
     def get_prerequisites(self):
         """Return prerequisites.
 
-        Returns: prerequisites
+        Returns:
+            prerequisites
         """
         return self.course_prerequisites
