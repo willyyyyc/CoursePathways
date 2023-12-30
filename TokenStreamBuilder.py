@@ -98,9 +98,7 @@ class TokenStreamBuilder:
         with open(self.file, 'r') as f:
             for line in f:
                 current_line = line.rsplit()
-                print(current_line)
                 current_line = fix_line(current_line)   # Call helper function that hardcodes a correct line
-                print(current_line)
 
                 patterns = [none, or_re, and_re, left_brace, right_brace]
                 stream = []
@@ -119,23 +117,10 @@ class TokenStreamBuilder:
                         new_course_title = CourseTitle(word, current_line[index + 1])
                         stream.append(new_course_title)
                     elif not code.match(word):
-                        print(word)
                         string += (word + ' ')
-                        print(string)
                     index += 1
                 if string != '':
                     stream.append(string)
 
-
-                #matches = [word for word in raw_line if any(pattern.match(word) for pattern in patterns)]
-                #for match in matches:
-                #    raw_line.remove(match)
-
-                #print(matches)
-                print(current_line)
-                print('->', stream, '\n')
-
-
-                #plan:
-#break line into list of characters
-#goal: a list of course title objects to fill an adjacency list. some entries in list will themselves be lists, representing optional ('or' prerequisites)
+        token_stream = TokenStream(stream)
+        return token_stream

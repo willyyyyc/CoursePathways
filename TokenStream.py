@@ -11,20 +11,15 @@ class TokenStream:
         tokens (list): List of tokens
 
     Methods:
-        add_token(self, token): Adds a token to the list of tokens
+        get_stream(self): Returns token stream
     """
-    def __init__(self, tokens=None):
-        if tokens is None:
-            tokens = []
+    def __init__(self, tokens):
         self.tokens = tokens
 
-    def add_token(self, token: Token):
-        """Adds a token to the list of tokens.
-
-        Args:
-            token (Token): Token to be added.
+    def get_stream(self):
+        """Returns token stream.
 
         Returns:
-            void
+            list of tokens
         """
-        self.tokens.append(token)
+        return self.tokens
