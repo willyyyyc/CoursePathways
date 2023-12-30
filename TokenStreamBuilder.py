@@ -24,6 +24,7 @@ def fix_line(raw_line):
     broken_code_1 = re.compile('^\\d')
     broken_code_2 = re.compile('^CSCI\\d{4}')
     broken_code_3 = re.compile('^\\d$')
+    code_exception = re.compile('^\\d{4}[.,]')
 
     brace_split = re.compile('(\\()|(\\))').split
     raw_line = [part for word in raw_line for part in brace_split(word) if part]
@@ -46,7 +47,10 @@ def fix_line(raw_line):
             raw_line[i] = 'CSCI'
         elif broken_code_3.match(raw_line[i]):
             raw_line.pop(i + 1)
+        if code_exception.match(raw_line[i]):
+            raw_line[i] = raw_line[i][:4]
         i += 1
+
     return raw_line
 
 
@@ -93,19 +97,34 @@ class TokenStreamBuilder:
         """
         with open(self.file, 'r') as f:
             for line in f:
-                raw_line = line.rsplit()
-                raw_line = fix_line(raw_line)   # Call helper function that hardcodes a correct line
+                current_line = line.rsplit()
+                print(current_line)
+                current_line = fix_line(current_line)   # Call helper function that hardcodes a correct line
+                print(current_line)
 
                 patterns = [none, or_re, and_re, left_brace, right_brace]
                 stream = []
+                string = ''
                 index = 0
-                for word in raw_line:
+                for word in current_line:
                     if any(pattern.match(word) for pattern in patterns):
+                        if string != '':
+                            stream.append(string)
+                            string = ''
                         stream.append(word)
                     elif faculty.match(word):
-                        new_course_title = CourseTitle(word, raw_line[index + 1])
+                        if string != '':
+                            stream.append(string)
+                            string = ''
+                        new_course_title = CourseTitle(word, current_line[index + 1])
                         stream.append(new_course_title)
+                    elif not code.match(word):
+                        print(word)
+                        string += (word + ' ')
+                        print(string)
                     index += 1
+                if string != '':
+                    stream.append(string)
 
 
                 #matches = [word for word in raw_line if any(pattern.match(word) for pattern in patterns)]
@@ -113,7 +132,9 @@ class TokenStreamBuilder:
                 #    raw_line.remove(match)
 
                 #print(matches)
+                print(current_line)
                 print('->', stream, '\n')
+
 
                 #plan:
 #break line into list of characters
