@@ -97,3 +97,8 @@ builder.build_token_stream()
 
 #note: when getting prerequisites, need to make sure that it checks for the case where text flows to next line
 # extra field in course called special requirements? or additional? and have it be everything leftover after creating prereq list
+
+#new steps:
+#build the graph AFTER the token stream is complete.
+#the course prerequisite field will be updated with final list repr. of prerequisites
+#finally, graph is created

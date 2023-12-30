@@ -1,4 +1,7 @@
 import re
+from CourseTitle import CourseTitle
+from Token import Token
+from TokenStream import TokenStream
 
 
 none = re.compile('None')
@@ -93,14 +96,25 @@ class TokenStreamBuilder:
                 raw_line = line.rsplit()
                 raw_line = fix_line(raw_line)   # Call helper function that hardcodes a correct line
 
-                patterns = [none, faculty, code, or_re, and_re, left_brace, right_brace]
-                matches = [word for word in raw_line if any(pattern.match(word) for pattern in patterns)]
-                for match in matches:
-                    raw_line.remove(match)
+                patterns = [none, or_re, and_re, left_brace, right_brace]
+                stream = []
+                index = 0
+                for word in raw_line:
+                    if any(pattern.match(word) for pattern in patterns):
+                        stream.append(word)
+                    elif faculty.match(word):
+                        new_course_title = CourseTitle(word, raw_line[index + 1])
+                        stream.append(new_course_title)
+                    index += 1
+
+
+                #matches = [word for word in raw_line if any(pattern.match(word) for pattern in patterns)]
+                #for match in matches:
+                #    raw_line.remove(match)
 
                 #print(matches)
-                print('->', raw_line, '\n')
+                print('->', stream, '\n')
 
-#plan:
+                #plan:
 #break line into list of characters
 #goal: a list of course title objects to fill an adjacency list. some entries in list will themselves be lists, representing optional ('or' prerequisites)
