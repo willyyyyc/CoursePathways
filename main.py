@@ -79,9 +79,8 @@ with open('files/faculty_cs.txt', 'r') as f:
                 courses[len(courses)-1].set_prerequisites(str_prereq)
 
 prereq_exists = os.path.isfile('files/raw_prerequisites.txt')
-graph = Graph()
+
 for course in courses:
-    graph.add_edge(course.get_info(), course.get_prerequisites())
     if not prereq_exists:
         with open('files/raw_prerequisites.txt', 'a') as prereqs:
             try:
@@ -90,8 +89,17 @@ for course in courses:
                 prereqs.write('None\n')
 
 builder = TokenStreamBuilder('files/raw_prerequisites.txt')
-builder.build_token_stream()
+streams = builder.build_token_stream()
 
+# update course prerequisites to token streams
+for course, token_stream in zip(courses, streams):
+    course.set_prerequisites(token_stream)
+    #print(token_stream.get_stream())
+    print(course.get_info(), '\n', course.get_prerequisites(), '\n')
+
+#graph = Graph()
+#for course in courses:
+#    graph.add_edge(course.get_info(), course.get_prerequisites())
 #print(graph.get_size())
 #graph.print_graph()
 

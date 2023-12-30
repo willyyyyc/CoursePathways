@@ -95,6 +95,7 @@ class TokenStreamBuilder:
         Returns:
             list of token streams
         """
+        streams = []
         with open(self.file, 'r') as f:
             for line in f:
                 current_line = line.rsplit()
@@ -122,5 +123,6 @@ class TokenStreamBuilder:
                 if string != '':
                     stream.append(string)
 
-        token_stream = TokenStream(stream)
-        return token_stream
+                token_stream = TokenStream(stream)
+                streams.append(token_stream)
+        return streams

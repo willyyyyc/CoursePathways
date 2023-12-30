@@ -631,7 +631,7 @@ PREREQUISITES: Nova Scotia Mathematics advanced 11 and 12 or pre -calculus. Pre 
 EXCLUSIONS: MATH 1000, MATH 1215, MATH 1280, MATH 1500  
  
  
-CSCI 13 15 Discrete Mathematics for Computer Science  
+CSCI 1315 Discrete Mathematics for Computer Science
 CREDIT HOURS: 3  
 This course is an introduction to formal reasoning and discrete mathematics with applications to computer science. Students w ill be introduced to formal 
 notation and reasoning about problems and algorithms. Topics include: sets, sequences, and summations, simple proof techniques, elementary number theory, 
@@ -847,7 +847,7 @@ EXCLUSIONS: STAT 2060, ENGM 2032, ECON 2260, MATH 2060
 CSCI 2690 Introduction to Software Projects  
 CREDIT HOURS: 3  
 Students learn how software projects are planned, implemented, and closed. Topics include plan development, project life cycl es, software development life 
-cycles, measurable  organizational value, work breakdown structures, scheduling, scope, risk, change requests, conflict resolution, closure, and post-mortems.  
+cycles, measurable  organizational value, work breakdown structures, scheduling, scope, risk, change requests, conflict resolution, closure, and post-mortems.
 CROSSLISTED: INFX 2690  
 FORMATS: Lecture  
  
@@ -966,11 +966,11 @@ The course provides students with a practical foundation in high -level computer
 PREREQUISITES: CSCI 2110.03, (CSCI 2132.03 or CSCI 2134.03), and MATH 1030.03  
  
  
-CSCI 316 2 Digital Media  
+CSCI 3162 Digital Media
 CREDIT HOURS: 3  
 This course covers technical aspects of digital media, including images, video, and sound. Topics covered include digital rep resentation, processing, 
 compression, and multimedia generation.  
-PREREQUISITES: (CSCI 1300.03 or MA TH 1000.03), MATH 1030.03, CSCI 2110.03  
+PREREQUISITES: (CSCI 1300.03 or MATH 1000.03), MATH 1030.03, CSCI 2110.03
 EXCLUSIONS: CSCI 4165.03  
  
  
@@ -979,7 +979,7 @@ CREDIT HOURS: 3
 This course gives students a foundation in computer networks. It presents a top -down view of the layered architectural elements of communication systems, 
 focusing on the Internet and TCP/IP. Topics include client/server systems, packet switching, protocol stacks, queuing theory,  application protocols, socket 
 programming, remote service calls, reliable transport, UDP, TCP, and security.  
-PREREQUISITE S: CSCI 2110.03, and (CSCI 2132.03 or CSCI 2134.03)  
+PREREQUISITES: CSCI 2110.03, and (CSCI 2132.03 or CSCI 2134.03)
  
  
 CSCI 3172 Web -Centric Computing  
@@ -1273,7 +1273,7 @@ security , phishing, passwords, and secure communication.
 PREREQUISITES: CSCI 3160.03  
  
   
-924 CSCI 4171 Networks and Communication  
+CSCI 4171 Networks and Communication
 CREDIT HOURS: 3  
 The primary objective of this course is to give the student a comprehensive understanding and specialized knowledge in the field of computer networks and 
 communications. The course teaches through a systems approach to networks by examining the hardware and protocol components t hat comprise a network. 
@@ -1498,7 +1498,7 @@ CSCI 8890 Co -op Seminar
 CREDIT HOURS: 0  
 Students in the Bachelor of Computer Science Co -operative Education Program must register for this course, which orients students to the co -op system. 
 Pass/fail grading applies to this course.  
-PRERE QUISITES: Permission of the Faculty of Computer Science  
+PREREQUISITES: Permission of the Faculty of Computer Science
  
  
 CSCI 8891 Co -op Work Term I  

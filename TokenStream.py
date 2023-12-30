@@ -23,3 +23,6 @@ class TokenStream:
             list of tokens
         """
         return self.tokens
+
+    def __str__(self):
+        return str(self.tokens)
