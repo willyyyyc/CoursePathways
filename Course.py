@@ -1,4 +1,6 @@
 from CourseTitle import CourseTitle
+
+
 class Course:
     """This class describes a course object
 

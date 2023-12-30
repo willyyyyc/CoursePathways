@@ -1,6 +1,5 @@
 import re
 from CourseTitle import CourseTitle
-from Token import Token
 from TokenStream import TokenStream
 
 

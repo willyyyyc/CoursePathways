@@ -1,6 +1,3 @@
-from Token import Token
-
-
 class TokenStream:
     """List of valid Tokens.
 
