@@ -3,8 +3,8 @@ import os
 from FileGenerator import FileGenerator
 from Course import Course
 from CourseTitle import CourseTitle
-from Graph import Graph
 from TokenStreamBuilder import TokenStreamBuilder
+from CourseNetwork import CourseNetwork
 
 
 def get_page_range():
@@ -89,16 +89,18 @@ for course in courses:
                 prereqs.write('None\n')
 
 builder = TokenStreamBuilder('files/raw_prerequisites.txt')
-streams = builder.build_token_stream()
+all_token_streams = builder.build_token_stream()
 
 # update course prerequisites to token streams
-for course, token_stream in zip(courses, streams):
+for course, token_stream in zip(courses, all_token_streams):
     course.set_prerequisites(token_stream)
-    #print(token_stream.get_stream())
-    print(course.get_info(), '\n', course.get_prerequisites(), '\n')
+    #print(course.get_info(), '\n', course.get_prerequisites(), '\n')
 
-#graph = Graph()
-#for course in courses:
+course_network = CourseNetwork()
+graph = course_network.build_graph(courses)
+
+graph.print_graph()
+
 #    graph.add_edge(course.get_info(), course.get_prerequisites())
 #print(graph.get_size())
 #graph.print_graph()
