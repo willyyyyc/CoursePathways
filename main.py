@@ -5,6 +5,7 @@ from Course import Course
 from CourseTitle import CourseTitle
 from TokenStreamBuilder import TokenStreamBuilder
 from CourseNetwork import CourseNetwork
+from pyvis.network import Network
 
 
 def get_page_range():
@@ -99,16 +100,5 @@ for course, token_stream in zip(courses, all_token_streams):
 course_network = CourseNetwork()
 graph = course_network.build_graph(courses)
 
-graph.print_graph()
-
-#    graph.add_edge(course.get_info(), course.get_prerequisites())
-#print(graph.get_size())
 #graph.print_graph()
-
-#note: when getting prerequisites, need to make sure that it checks for the case where text flows to next line
-# extra field in course called special requirements? or additional? and have it be everything leftover after creating prereq list
-
-#new steps:
-#build the graph AFTER the token stream is complete.
-#the course prerequisite field will be updated with final list repr. of prerequisites
-#finally, graph is created
+course_network.display_network()
