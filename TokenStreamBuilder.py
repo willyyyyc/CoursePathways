@@ -97,7 +97,7 @@ class TokenStreamBuilder:
                 current_line = line.rsplit()
                 current_line = fix_line(current_line)   # Call helper function that hardcodes a correct line
 
-                patterns = [none, or_re, and_re, left_brace, right_brace]
+                patterns = [none, or_re, left_brace, right_brace]
                 stream = []
                 string = ''
                 index = 0
@@ -116,7 +116,7 @@ class TokenStreamBuilder:
                             course_code = course_code[:4]
                         new_course_title = CourseTitle(word, course_code)
                         stream.append(new_course_title)
-                    elif not code.match(word):
+                    elif not code.match(word) and not and_re.match(word):
                         string += (word + ' ')
                     index += 1
                 if string != '':
